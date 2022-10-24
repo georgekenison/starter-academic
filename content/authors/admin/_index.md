@@ -3,65 +3,82 @@
 title: George Kenison
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: George
+last_name: Kenison
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technische Universität Wien
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: ""
 
-# Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Automated Verification
+- Dynamical Systems
+- Ergodic Theory
+- Formal Verification
+- Holonomic Sequences
 
-# Education to show in About widget
+
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+  - course: PhD in Mathematics
+    institution: University of Warwick
+    year: 2017
+  - course: MMath
+    institution: University of Warwick
+    year: 2013
+
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+#- icon: envelope-square
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use #"mailto:test@example.org".
+
+#- icon: twitter
+#  icon_pack: fab
+#  link: 
+
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-7661-7061
+
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=pkhgzFAAAAAJ&hl=en
+
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/search/math?searchtype=author&query=Kenison%2C+G
+
+- icon: dblp
+  icon_pack: ai
+  link: https://dblp.org/pid/267/5393
+
+- icon: github
+  icon_pack: fab
+  link: https://github.com/georgekenison
+
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
+
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.mpi-sws.org/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,8 +94,11 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a research associate, at the Technische Universität Wien, working in formal verification and program analysis.  I was previously a research associate in infinite-state systems and dynamical systems at the University of Oxford.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests span asymptotic properties of groups, symbolic dynamics, linear dynamical systems, verification, and decision problems. Much of my recent work considers the Skolem and Positivity Problems, two long-standing open decision problems, for recurrence sequences.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
+
+{{< icon name="envelope" pack="fas" >}} george.kenison@tuwien.ac.at
+
