@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Markov Reachability Problem | George Kenison</title><link>https://georgekenison.github.io/tag/markov-reachability-problem/</link><atom:link href="https://georgekenison.github.io/tag/markov-reachability-problem/index.xml" rel="self" type="application/rss+xml"/><description>Markov Reachability Problem</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate><image><url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url><title>Markov Reachability Problem</title><link>https://georgekenison.github.io/tag/markov-reachability-problem/</link></image><item><title>Markov Reachability for biased cycles</title><link>https://georgekenison.github.io/post/fourcycle/</link><pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/post/fourcycle/</guid><description>&lt;h3 id="the-markov-reachability-problem">The Markov Reachability Problem&lt;/h3>
+&lt;p>We are interested in decision problems for Markov chains and in particular, the &lt;em>Markov Reachability Problem&lt;/em>. Given a stochastic matrix $K\in\mathbb{Q}^{d\times d}$ and positive $r\in\mathbb{Q}$, determine whether there exist an $n\in\mathbb{N}$ such that $K^n(1,2)=r$.
+That is to say, does there exist an $n\in\mathbb{N}$ such that the probability of travelling from state $1$ to state $2$ is exactly $r$.
+The decidability of the Markov Reachability Problem is currently open.&lt;/p>
+&lt;p>We note the Markov Reachability Problem is more difficult than the process of determining whether there is a path of length $n$ originating at state $1$ and terminating at state $2$ with associated probability $r$.&lt;/p>
+&lt;h3 id="cycle-graphs">Cycle graphs&lt;/h3>
+&lt;p>We shall consider the Markov Reachability Problem for a toy example.
+Let us define the entries of an $m\times m$ stochastic matrix $K$ with rows and columns indexed by the states ${1,2,\ldots, m}$ as follows&lt;/p>
+&lt;p>\begin{equation*}
+K(i,j) = \begin{cases}
+p &amp;amp; \text{if } j=i+1 \pmod{m},\\
+1-p &amp;amp; \text{if } j=i-1 \pmod{m},\\
+0 &amp;amp; \text{otherwise}.
+\end{cases}
+\end{equation*}&lt;/p>
+&lt;p>The Markov chain associated to $K$ is a directed graph with states ${1,2,\ldots, m}$ so that at each timestep the transitions $\ell\mapsto\ell+1\pmod{m}$ and $\ell\mapsto\ell-1\pmod{m}$ occur with probabilities $p$ and $1-p$, respectively.&lt;/p>
+&lt;p>We call the Markov chain associated to $K$ an &lt;em>$m$-cycle&lt;/em> and, in addition, if $p\neq 1/2$ we call the Markov chain a &lt;em>biased $m$-cycle&lt;/em>. Without loss of generality, we shall assume throughout that $p\in(0,1/2)$.&lt;/p>
+&lt;h3 id="the-biased-4-cycle">The biased $4$-cycle&lt;/h3>
+&lt;p>Consider the decidability of the Markov Reachability Problem for the biased $4$-cycle. It is clear that the only value of $r\in\mathbb{Q}$ that is not covered by stochastic asymptotic considerations is $r={1}/{2}$.
+We prove the following.&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>Proposition:&lt;/strong>
+Let $K$ be the stochastic transition matrix
+\begin{equation*}
+K := \begin{pmatrix}
+0 &amp;amp; p &amp;amp; 0 &amp;amp; 1-p\\ 1-p &amp;amp; 0 &amp;amp; p &amp;amp; 0\\ 0 &amp;amp; 1-p &amp;amp; 0 &amp;amp; p\\ p &amp;amp; 0 &amp;amp; 1-p &amp;amp; 0
+\end{pmatrix}
+\end{equation*}
+for the biased $4$-cycle with $p\in(0,1/2)$. There is no $m\in\mathbb{N}$ for which $K^m(1,2) = 1/2$.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;strong>Proof.&lt;/strong> Observe that a path originating at state $1$ and terminating at state $2$ on the $4$-cycle graph has odd length.
+We can categorise such paths by the number of state transitions $\ell\mapsto\ell+1\pmod{4}$ and $\ell\mapsto\ell-1\pmod{4}$ made.&lt;/p>
+&lt;p>Given that $K^{2m}(1,2)=0$ for each $m\in\mathbb{N}$. We need only consider two cases: paths with length $4m+1$ and those with length $4m+3$. We can write the entries $K^{4m+1}(1,2)$ and $K^{4m+3}(1,2)$ in terms of sums of odd binomial coefficients such that
+\begin{align*}
+K^{4m+1}(1,2) &amp;amp;= \sum_{j=0}^{2m} \binom{4m+1}{2j+1} p^{2j+1}(1-p)^{4m-2j}, \text{ and }\\&lt;br>
+K^{4m+3}(1,2) &amp;amp;= \sum_{j=0}^{2m} \binom{4m+3}{2j+2} p^{2j+2}(1-p)^{4m-2j+1}.
+\end{align*}&lt;/p>
+&lt;p>Using standard techniques for binomial expansions we can express $K^{4n+1}(1,2)$ as follows
+\begin{align*}
+1- (1-2p)^{4m+1} &amp;amp;= (p + (1-p))^{4m+1} -(-p+(1-p))^{4m+1} \\
+&amp;amp;= \sum_{j=0}^{4m+1} \binom{4m+1}{j} p^j (1-p)^{4m+1-j} (1-(-1)^j) \\
+&amp;amp;= 2\sum_{j=0}^{2m} \binom{4m+1}{2j+1} p^{2j+1} (1-p)^{4m-2j} \\
+&amp;amp;= 2K^{4m+1}(1,2).
+\end{align*}&lt;/p>
+&lt;p>Suppose, for a contradiction, that there is an $m\equiv 1 \pmod{4}$ for which $K^m(1,2)={1}/{2}$. Then $0 = K^m(1,2) - {1}/{2} = -(2p-1)^{m}/2$, but this contradicts our assumption that $p\in(0,1/{2})$. The fact that there is no $m\equiv 3 \pmod{4}$ for which $K^m(1,2) = 1/{2}$ follows by a similar argument. Thus we determine there is no $m\in\mathbb{N}$ for which $K^m(1,2)=1/{2}$ as required.&lt;/p>
+&lt;/blockquote>
+&lt;p>The decidability of the Markov Reachability Problem for the fair $4$-cycle is trivial. In fact, the problem is decidable for the general $m$-cycle.
+It can be shown that the Markov Reachability Problem is decidable for biased cycles with $m$ states, but that is a post for another time.&lt;/p></description></item></channel></rss>
