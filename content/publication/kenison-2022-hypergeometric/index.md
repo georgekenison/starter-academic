@@ -16,12 +16,12 @@ whilst the latter asks whether every term in a sequence is bounded from below by
 We establish decidability results for restricted variants of these two decision problems with an approach via transcendental number theory.
 Our contributions include the following: the membership and threshold problems are both decidable for the class of 
 rational-valued hypergeometric sequences with Gaussian integer parameters."
-doi: "doi"
+doi: "10.48550/arXiv.2211.02447"
 tags : ["decision problems", "Membership Problem", "Threshold Problem", "hypergeometric sequences"]
 links:
   - name: arXiv
-    url: https://arxiv.org/abs/2211.0000000000000000000000000000000000
-url_pdf: 'https://arxiv.org/pdf/2211.000000000000000000000000000000000000000000000000000000000000.pdf'
+    url: https://arxiv.org/abs/2211.02447
+url_pdf: 'https://arxiv.org/pdf/2211.02447.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
