@@ -22,21 +22,32 @@ tags: # (Core)
 ---
 
 ## Workshop On Reachability, Recurrences, and Loops
-### Satellite Workshop for [ICALP 2023](https://icalp2023.cs.upb.de/)
+### Satellite Workshop at [ICALP 2023](https://icalp2023.cs.upb.de/)
 #### Paderborn, Germany
 #### Monday 10th July 2023
 
 ---
 
-![Workshop On Reachability, Recurrences, and Loops](jbw.jpg "James (Ben) Worrell")
 
+## Topic
 
+<br/>
+
+Recursively defined sequences are foundational objects of study in the computational sciences; they arise naturally in areas such as: the analysis of algorithms, weighted automata, loop termination, and probabilistic models. 
 
 ---
 
 ## Aim
+<img align="left" width="310" height="310" src="jbw.jpg" style="float:right; padding-left:90px">
 
-The one-day workshop will celebrate the research contributions of Professor James Worrell (also known as Ben) to reachability problems and recurrence sequences. For context, Ben is giving an [invited talk](https://icalp2023.cs.upb.de/invited-speakers/) at ICALP this year.
+<br/>
+
+The aim of WORReLL'23 is to bring together researchers from the community and showcase cutting-edge research on the above topics.
+The one-day workshop will also celebrate the research contributions of Professor James Worrell (also known as Ben). For context, Ben is giving an [invited talk](https://icalp2023.cs.upb.de/invited-speakers/) at ICALP this year.
+
+
+
+<br clear="left"/>
 
 Coincidentally, the workshop is a few days prior to Ben's birthday.
 We are also planning to organise a birthday dinner as the closing event of the workshop, so please take this into consideration for planning your travel to Paderborn.
@@ -45,11 +56,15 @@ We are also planning to organise a birthday dinner as the closing event of the w
 
 ## Schedule
 
+<br/>
+
 To be announced
 
 ---
 
 ## Organisers
+
+<br/>
 
 [George Kenison](https://georgekenison.github.io/) (TU Wien, Austria) and [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
 
