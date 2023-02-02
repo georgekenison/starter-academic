@@ -55,6 +55,15 @@ We are also planning to organise a birthday dinner as the closing event of the w
 {{< figure src="jbw.jpg" width="310" height="310" caption="Professor James Worrell" >}}
 ---
 
+## Confirmed Speakers
+
+
+- [Paul Bell](https://pcbell.github.io/) (Keele)
+- [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
+- [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
+
+---
+
 ## Schedule
 
 
@@ -63,8 +72,9 @@ To be announced
 ---
 
 ## Organisers
-<p>
 
-[George Kenison](https://georgekenison.github.io/) (TU Wien, Austria) <br>
-[Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
-</p>
+
+
+- [George Kenison](https://georgekenison.github.io/) (TU Wien)
+- [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
+
