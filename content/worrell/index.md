@@ -54,6 +54,16 @@ We are also planning to organise a birthday dinner as the closing event of the w
 
 ---
 
+## Confirmed Speakers
+
+<br/>
+
+- [Paul Bell](https://pcbell.github.io/) (Keele)
+- [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
+- [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
+
+---
+
 ## Schedule
 
 <br/>
@@ -66,5 +76,5 @@ To be announced
 
 <br/>
 
-[George Kenison](https://georgekenison.github.io/) (TU Wien, Austria) and [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
+[George Kenison](https://georgekenison.github.io/) (TU Wien) and [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
 
