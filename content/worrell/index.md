@@ -59,10 +59,12 @@ We are also planning to organise a birthday dinner as the closing event of the w
 
 
 - [Paul Bell](https://pcbell.github.io/) (Keele)
+- [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick)
 - [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
 - [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand)
 - [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
 - [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool)
+- [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
 
 ---
 
