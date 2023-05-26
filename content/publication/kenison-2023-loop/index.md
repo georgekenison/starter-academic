@@ -3,9 +3,9 @@ title: "From Polynomial Invariants to Linear Loops"
 date: 2023-02-14
 publishDate:
 authors: ["G. Kenison", "L. Kovács", "A. Varonka"]
-publication_types: ["3"]
+publication_types: ["1"]
 featured: false
-publication: ""
+publication: "*International Symposium on Symbolic and Algebraic Computation, ISSAC '23*"
 
 
 abstract: "Loop invariants are software properties that hold before and after every iteration of a loop. As such, invariants provide inductive arguments that are key in automating the verification of program loops. The problem of generating loop invariants; in particular, invariants described by polynomial relations (so called polynomial invariants), is therefore one of the hardest problems in software verification. In this paper we advocate an alternative solution to invariant generation. Rather than inferring invariants from loops, we synthesise loops from invariants. As such, we generate loops that satisfy a given set of polynomials; in other words, our synthesised loops are correct by construction.

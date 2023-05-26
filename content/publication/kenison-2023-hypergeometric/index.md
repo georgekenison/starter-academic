@@ -3,9 +3,9 @@ title: "The Membership Problem for Hypergeometric Sequences with Quadratic Param
 date: 2023-03-05
 publishDate:
 authors: ["G. Kenison", "K. Nosan", "M. Shirmohammadi", "J. Worrell"]
-publication_types: ["3"]
+publication_types: ["1"]
 featured: false
-publication: ""
+publication: "*International Symposium on Symbolic and Algebraic Computation, ISSAC '23*"
 
 
 abstract: "Hypergeometric sequences are rational-valued sequences that satisfy

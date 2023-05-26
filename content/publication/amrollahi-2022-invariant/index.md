@@ -3,9 +3,9 @@ title: "Solving Invariant Generation for Unsolvable Loops"
 date: 2022-06-15
 publishDate:
 authors: ["D. Amrollahi", "E. Bartocci", "G. Kenison", "L. Kovács", "M. Moosbrugger", "M. Stankovič"]
-publication_types: ["3"]
+publication_types: ["1"]
 featured: false
-publication: ""
+publication: "International Static Analysis Symposium, SAS '22"
 
 abstract: "Automatically generating invariants, key to computer-aided analysis of probabilistic and
 deterministic programs and compiler optimisation, is a challenging open problem. Whilst the problem
@@ -19,12 +19,12 @@ polynomial loop invariants. Our implementation and experiments demonstrate both 
 approach to both deterministic and probabilistic programs. 
 "
 
-doi: "10.48550/arXiv.2206.06943"
+doi: "10.1007/978-3-031-22308-2_3"
 tags : ["Invariant Generation", "Unsolvable Loops", "Probabilistic Programs"]
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2206.06943
-url_pdf: 'https://arxiv.org/pdf/2206.06943.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
