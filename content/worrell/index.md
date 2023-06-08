@@ -58,7 +58,7 @@ We plan to celebrate with a birthday dinner on Sunday 09th July (the evening bef
 ## Confirmed Speakers
 
 
-- [Nikhil Balaki](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
+- [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
 - [Paul Bell](https://pcbell.github.io/) (Keele)
 - [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick)
 - [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
