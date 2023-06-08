@@ -50,7 +50,7 @@ The one-day workshop will also celebrate the research contributions of Professor
 
 
 Coincidentally, the workshop is a few days prior to Ben's birthday.
-We are also planning to organise a birthday dinner as the closing event of the workshop, so please take this into consideration for planning your travel to Paderborn.
+We plan to celebrate with a birthday dinner on Sunday 09th July (the evening before the workshop), so please take this into consideration for planning your travel to Paderborn.
 
 {{< figure src="jbw.jpg" width="310" height="310" caption="Professor James Worrell" >}}
 ---
