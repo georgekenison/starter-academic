@@ -58,11 +58,13 @@ We are also planning to organise a birthday dinner as the closing event of the w
 ## Confirmed Speakers
 
 
+- [Nikhil Balaki](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
 - [Paul Bell](https://pcbell.github.io/) (Keele)
 - [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick)
 - [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
 - [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand)
 - [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
+- [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU)
 - [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool)
 - [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
 
@@ -81,4 +83,13 @@ To be announced
 
 - [George Kenison](https://georgekenison.github.io/) (TU Wien)
 - [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
+
+---
+
+## Acknowledgements
+
+
+We gratefully acknowledge the financial support of both the CNRS and the ANR via the International Emerging Actions grant (IEA'22) and the VeSyAM grant (ANR-22-CE48-0005), respectively.
+
+
 
