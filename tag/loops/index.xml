@@ -26,18 +26,23 @@ loading="lazy" data-zoomable />&lt;/div>
 Professor James Worrell
 &lt;/figcaption>&lt;/figure>
 &lt;/h2>
-&lt;h2 id="confirmed-speakers">Confirmed Speakers&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi)&lt;/li>
-&lt;li>&lt;a href="https://pcbell.github.io/" target="_blank" rel="noopener">Paul Bell&lt;/a> (Keele)&lt;/li>
-&lt;li>&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick)&lt;/li>
-&lt;li>&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris)&lt;/li>
-&lt;li>&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand)&lt;/li>
-&lt;li>&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS)&lt;/li>
-&lt;li>&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU)&lt;/li>
-&lt;li>&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> (Liverpool)&lt;/li>
-&lt;li>&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris)&lt;/li>
-&lt;/ul>
+&lt;h2 id="confirmed-speakers-and-talks">Confirmed Speakers and Talks&lt;/h2>
+&lt;h4 id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-_on-the-complexity-of-the-sum-of-square-roots-problem_">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi) &lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/h4>
+&lt;p>Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
+problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt; \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
+It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR.
+However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the &amp;ldquo;numerical hardness&amp;rdquo; of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient &amp;ldquo;non-uniform&amp;rdquo; algorithms for this problem.&lt;/p>
+&lt;h4 id="paul-bellhttpspcbellgithubio-keele-_tba_">&lt;a href="https://pcbell.github.io/" target="_blank" rel="noopener">Paul Bell&lt;/a> (Keele) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick-_tba_">&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="valérie-berthéhttpswwwiriffrberthe-cnrs-paris-_recursive-sequences-and-numeration_">&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris) &lt;em>Recursive Sequences and Numeration&lt;/em>&lt;/h4>
+&lt;p>In this lecture we revisit recursive sequences from the view point of numeration systems and their associated dynamical systems.
+Linear recurrences allow indeed the definition of numerations for both integers and real numbers.
+We focus on the so-called finiteness property which means that the set of elements having a finite expansion forms a ring, and on its numerous applications in arithmetics, aperiodic order, fractal geometry etc.&lt;/p>
+&lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand-_tba_">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-_tba_">&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku-_tba_">&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-_tba_-liverpool">&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> &lt;em>tba&lt;/em> (Liverpool)&lt;/h4>
+&lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_tba_">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris) &lt;em>tba&lt;/em>&lt;/h4>
 &lt;hr>
 &lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;p>To be announced&lt;/p>
