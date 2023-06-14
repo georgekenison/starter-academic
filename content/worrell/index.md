@@ -93,7 +93,7 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 
 #### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS) _tba_
 #### [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU) _tba_ 
-#### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) _tba_ (Liverpool)
+#### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) _tba_
 #### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _tba_
 
 ---
