@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>George Kenison</title><link>https://georgekenison.github.io/</link><atom:link href="https://georgekenison.github.io/index.xml" rel="self" type="application/rss+xml"/><description>George Kenison</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate><image><url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url><title>George Kenison</title><link>https://georgekenison.github.io/</link></image><item><title>Solving Invariant Generation for Unsolvable Loops</title><link>https://georgekenison.github.io/post/2022sastalk/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/post/2022sastalk/</guid><description>&lt;p>Marcel Moosbrugger presented our joint work (&lt;a href="https://georgekenison.github.io/publication/amrollahi-2022-invariant/">see here&lt;/a>)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>George Kenison</title><link>https://georgekenison.github.io/</link><atom:link href="https://georgekenison.github.io/index.xml" rel="self" type="application/rss+xml"/><description>George Kenison</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://georgekenison.github.io/media/icon_hu77e73f7cff5c696fd30270c2c33dd3bf_36783_512x512_fill_lanczos_center_3.png</url><title>George Kenison</title><link>https://georgekenison.github.io/</link></image><item><title>Summer Workshops (2023)</title><link>https://georgekenison.github.io/post/2023workshops/</link><pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/post/2023workshops/</guid><description>&lt;p>I am co-organizing two workshops in July 2023: WORReLL'23 (&lt;a href="https://georgekenison.github.io/worrell/">see here&lt;/a>) and Autobóz 2023 (&lt;a href="https://autoboz.org/home-23" target="_blank" rel="noopener">see here&lt;/a>).&lt;/p>
+&lt;hr>
+&lt;h3 id="worrell23">WORReLL'23&lt;/h3>
+&lt;p>WORRELL'23 is a one-day satellite workshop of at ICALP'23.
+The aim of the workshop is to bring together researchers from the community and showcase cutting-edge research on &lt;em>Reachability&lt;/em>, &lt;em>Recurrences&lt;/em>, and &lt;em>Loops&lt;/em>.&lt;/p>
+&lt;hr>
+&lt;h3 id="autobóz">Autobóz&lt;/h3>
+&lt;p>Autobóz is a yearly week-long invitational research camp on Logic, Automata, and
+Games.&lt;/p>
+&lt;p>In 2023, Autobóz will take place at the Seminarhaus in the Hessische Staatsdomäne Frankenhausen the week between &lt;a href="https://icalp2023.cs.upb.de/" target="_blank" rel="noopener">ICALP&lt;/a> and &lt;a href="https://highlights-conference.org/2023/" target="_blank" rel="noopener">Highlights&lt;/a>. Indeed, Autobóz is excited to partnership with Highlights as part of the &lt;a href="https://highlights-conference.org/2023/hcrw" target="_blank" rel="noopener">Highlights Collaborative Research Week&lt;/a>.&lt;/p>
+&lt;p>We have solicited expert tutorials on topics as diverse as: &lt;em>Circuit Verification using Computer Algebra&lt;/em>, &lt;em>Decision Problems for Subclasses of Rational Relations&lt;/em>, and &lt;em>Weak Memory Models in Concurrency&lt;/em>.&lt;/p></description></item><item><title>Solving Invariant Generation for Unsolvable Loops</title><link>https://georgekenison.github.io/post/2022sastalk/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/post/2022sastalk/</guid><description>&lt;p>Marcel Moosbrugger presented our joint work (&lt;a href="https://georgekenison.github.io/publication/amrollahi-2022-invariant/">see here&lt;/a>)
 on invariant generation for unsolvable loops at the ACM SIGPLAN 29th Static Analysis Symposium (SAS 2022).&lt;/p>
 &lt;h3 id="abstract">Abstract&lt;/h3>
 &lt;p>Automatically generating invariants, key to computer-aided analysis of probabilistic and deterministic programs and compiler optimisation, is a challenging open problem. Whilst the problem is in general undecidable, the goal is settled for restricted classes of loops. For the class of solvable loops, introduced by Kapur and Rodríguez-Carbonell in 2004, one can automatically compute invariants from closed-form solutions of recurrence equations that model the loop behaviour. In this paper we establish a technique for invariant synthesis for loops that are not solvable, termed unsolvable loops. Our approach automatically partitions the program variables and identifies the so-called defective variables that characterise unsolvability. We further present a novel technique that automatically synthesises polynomials, in the defective variables, that admit closed-form solutions and thus lead to polynomial loop invariants. Our implementation and experiments demonstrate both the feasibility and applicability of our approach to both deterministic and probabilistic programs.&lt;/p>
@@ -206,8 +216,8 @@ data-background-image="/media/boards.jpg"
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Statistics in conjugacy classes in free groups</title><link>https://georgekenison.github.io/publication/kenison-2019-statistics/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/publication/kenison-2019-statistics/</guid><description/></item><item><title>WORReLL'23</title><link>https://georgekenison.github.io/worrell/</link><pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate><guid>https://georgekenison.github.io/worrell/</guid><description>&lt;h2 id="workshop-on-reachability-recurrences-and-loops">Workshop On Reachability, Recurrences, and Loops&lt;/h2>
 &lt;h3 id="satellite-workshop-at-icalp-2023httpsicalp2023csupbde">Satellite Workshop at &lt;a href="https://icalp2023.cs.upb.de/" target="_blank" rel="noopener">ICALP 2023&lt;/a>&lt;/h3>
-&lt;h4 id="paderborn-germany">Paderborn, Germany&lt;/h4>
-&lt;h4 id="monday-10th-july-2023">Monday 10th July 2023&lt;/h4>
+&lt;h4 id="paderborn-germany-monday-10th-july-2023">Paderborn, Germany (Monday 10th July 2023)&lt;/h4>
+&lt;h4 id="workshop-registration-linkhttpsicalp2023csupbderegistration">&lt;a href="https://icalp2023.cs.upb.de/registration/" target="_blank" rel="noopener">Workshop Registration Link&lt;/a>&lt;/h4>
 &lt;hr>
 &lt;h2 id="topic">Topic&lt;/h2>
 &lt;p>Recursively defined sequences are foundational objects of study in the computational sciences; they arise naturally in areas such as: the analysis of algorithms, weighted automata, loop termination, and probabilistic models.&lt;/p>
@@ -217,7 +227,6 @@ data-background-image="/media/boards.jpg"
 The one-day workshop will also celebrate the research contributions of Professor James Worrell (also known as Ben). For context, Ben is giving an &lt;a href="https://icalp2023.cs.upb.de/invited-speakers/" target="_blank" rel="noopener">invited talk&lt;/a> at ICALP this year.&lt;/p>
 &lt;p>Coincidentally, the workshop is a few days prior to Ben&amp;rsquo;s birthday.
 We plan to celebrate with a birthday dinner on Sunday 09th July (the evening before the workshop), so please take this into consideration for planning your travel to Paderborn.&lt;/p>
-&lt;h2 id="hahahugoshortcodes0hbhb">
 &lt;figure id="figure-professor-james-worrell">
 &lt;div class="d-flex justify-content-center">
 &lt;div class="w-100" >&lt;img alt="Professor James Worrell" srcset="
@@ -231,7 +240,10 @@ loading="lazy" data-zoomable />&lt;/div>
 &lt;/div>&lt;figcaption>
 Professor James Worrell
 &lt;/figcaption>&lt;/figure>
-&lt;/h2>
+&lt;hr>
+&lt;h2 id="participation">Participation&lt;/h2>
+&lt;p>To participate in-person, please register for WORReLL'23 through ICALP&amp;rsquo;s &lt;a href="https://icalp2023.cs.upb.de/registration/" target="_blank" rel="noopener">registration portal&lt;/a>. To participate remotely over Zoom, please contact the organisers for further details.&lt;/p>
+&lt;hr>
 &lt;h2 id="confirmed-speakers-and-talks">Confirmed Speakers and Talks&lt;/h2>
 &lt;h4 id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-_on-the-complexity-of-the-sum-of-square-roots-problem_">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi) &lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/h4>
 &lt;p>Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
