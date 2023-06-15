@@ -22,7 +22,7 @@ image:
 ### frankenhausen
 ---
 
-I am co-organizing two workshops in July 2023: WORReLL'23  ([see here]({{< relref "/worrell" >}})) and Autobóz 2023 ([see here](https://autoboz.org/home-23)).
+I am co-organising two workshops in July 2023: WORReLL'23  ([see here]({{< relref "/worrell" >}})) and Autobóz 2023 ([see here](https://autoboz.org/home-23)).
 
 ---
 
