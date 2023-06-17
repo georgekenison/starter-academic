@@ -94,7 +94,27 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 #### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS) _tba_
 #### [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU) _tba_ 
 #### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) _tba_
-#### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _tba_
+
+
+#### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _The Membership Problem for Hypergeometric Sequences_
+
+This talk is on the Membership problem for rational-valued
+hypergeometric sequences. Such a sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
+satisfies a first-order linear recurrence relation with polynomial
+coefficients; that is,  a recurrence of the form $f(n)u_n =
+g(n)u_{n-1}$ where $f,g \in \mathbb{Z}[x]$.
+The Membership Problem asks, given a hypergeometric sequence
+$\\langle u_n \\rangle_{n=0}^{\infty}$ and a target value $t\in \mathbb{Q}$, determine whether
+$t$ occurs in the sequence.
+We give hints on recent decidability results of the Membership Problem
+under the assumption that either (i) $f$ and $g$ have distinct
+splitting fields, (ii) $f$ and $g$ split totally over
+$\mathbb{Q}$, and (iii) $f$ and $g$ are monic polynomials that both
+split over a quadratic extension of $\mathbb{Q}$.
+
+This talk is based on two papers appearing in ISSAC'22 and ISSAC'23,
+and are in collaboration with George Kenison, Amaury Pouly, Klara
+Nosan, and  James Worrell.
 
 ---
 
