@@ -44,7 +44,23 @@ We focus on the so-called finiteness property which means that the set of elemen
 &lt;h4 id="joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-_tba_">&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS) &lt;em>tba&lt;/em>&lt;/h4>
 &lt;h4 id="veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku-_tba_">&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU) &lt;em>tba&lt;/em>&lt;/h4>
 &lt;h4 id="igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool-_tba_">&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> (Liverpool) &lt;em>tba&lt;/em>&lt;/h4>
-&lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_tba_">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris) &lt;em>tba&lt;/em>&lt;/h4>
+&lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_the-membership-problem-for-hypergeometric-sequences_">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris) &lt;em>The Membership Problem for Hypergeometric Sequences&lt;/em>&lt;/h4>
+&lt;p>This talk is on the Membership problem for rational-valued
+hypergeometric sequences. Such a sequences $\langle u_n \rangle_{n=0}^{\infty}$
+satisfies a first-order linear recurrence relation with polynomial
+coefficients; that is, a recurrence of the form $f(n)u_n =
+g(n)u_{n-1}$ where $f,g \in \mathbb{Z}[x]$.
+The Membership Problem asks, given a hypergeometric sequence
+$\langle u_n \rangle_{n=0}^{\infty}$ and a target value $t\in \mathbb{Q}$, determine whether
+$t$ occurs in the sequence.
+We give hints on recent decidability results of the Membership Problem
+under the assumption that either (i) $f$ and $g$ have distinct
+splitting fields, (ii) $f$ and $g$ split totally over
+$\mathbb{Q}$, and (iii) $f$ and $g$ are monic polynomials that both
+split over a quadratic extension of $\mathbb{Q}$.&lt;/p>
+&lt;p>This talk is based on two papers appearing in ISSAC'22 and ISSAC'23,
+and are in collaboration with George Kenison, Amaury Pouly, Klara
+Nosan, and James Worrell.&lt;/p>
 &lt;hr>
 &lt;h2 id="schedule">Schedule&lt;/h2>
 &lt;p>To be announced&lt;/p>
