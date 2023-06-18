@@ -99,7 +99,7 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 #### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _The Membership Problem for Hypergeometric Sequences_
 
 This talk is on the Membership problem for rational-valued
-hypergeometric sequences. Such a sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
+hypergeometric sequences. Such sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
 coefficients; that is,  a recurrence of the form $f(n)u_n =
 g(n)u_{n-1}$ where $f,g \in \mathbb{Z}[x]$.
