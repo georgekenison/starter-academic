@@ -65,12 +65,14 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 
 ---
 
-## Confirmed Speakers and Talks
+## Confirmed Speakers
+
+(Click on a talk title for the abstract.)
 
 
-#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) _On the Complexity of the Sum of Square Roots Problem_ 
+#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
 
-{{< spoiler text="Abstract:" >}}
+{{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
 Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} >  \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
@@ -82,9 +84,9 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   
   
   
-#### [Paul Bell](https://pcbell.github.io/) (Keele) _From Quantum Automata to Quaternions and Rational Pairing Functions_
+#### [Paul Bell](https://pcbell.github.io/) (Keele)
 
-{{< spoiler text="Abstract:" >}}
+{{< spoiler text="_From Quantum Automata to Quaternions and Rational Pairing Functions_" >}}
 
 We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
 
@@ -92,12 +94,14 @@ We investigate some recent results on injectivity for Quantum Finite Automata. W
 
 
 
-#### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) _Globe Hopping_
+#### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) 
+
+_Globe Hopping_
 
 
-#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) _Recursive Sequences and Numeration_
+#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
 
-{{< spoiler text="Abstract:" >}}
+{{< spoiler text="_Recursive Sequences and Numeration_" >}}
 
 In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
@@ -106,17 +110,27 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 {{< /spoiler >}}
 
 
-#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) _tba_ 
+#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
 
-#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS) _tba_
-#### [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU) _tba_ 
-#### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) _tba_
+_tba_ 
+
+#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
+
+_tba_
+
+#### [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU) 
+
+_tba_ 
+
+#### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) 
+
+_tba_
 
 
-#### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _The Membership Problem for Hypergeometric Sequences_
+#### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
 
 
-{{< spoiler text="Abstract:" >}}
+{{< spoiler text="_The Membership Problem for Hypergeometric Sequences_" >}}
 
 This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
@@ -143,7 +157,26 @@ Nosan, and  James Worrell.
 ## Schedule
 
 
-To be announced
+09:00--09:45 Valérie Berthé <br>
+09:45--10:30 Dmitry Chistikov 
+
+_Coffee Break_
+
+11:00--11:45 Mahsa Shirmohammadi <br>
+11:45--12:30 Florian Luca
+
+_Lunch_
+
+14:05--14:25 Veronika Pillwein (Online) <br>
+14:25--14:45 Nikhil Balaji  <br>
+14:45--15:30 Paul Bell
+
+_Coffee Break_
+
+16:00--16:45 Igor Potapov <br>
+16:45--17:30 Joël Ouaknine
+
+_Workshop Ends. ICALP food and drinks event begins._
 
 ---
 
