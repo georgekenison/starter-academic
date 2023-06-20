@@ -68,25 +68,42 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 ## Confirmed Speakers and Talks
 
 
-#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) _On the Complexity of the Sum of Square Roots Problem_  
+#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) _On the Complexity of the Sum of Square Roots Problem_ 
+
+{{< spoiler text="Abstract:" >}}
 
 Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} >  \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR. 
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the "numerical hardness" of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient "non-uniform" algorithms for this problem.
+
+{{< /spoiler >}}
   
   
   
   
-#### [Paul Bell](https://pcbell.github.io/) (Keele) _tba_
-#### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) _tba_
+#### [Paul Bell](https://pcbell.github.io/) (Keele) _From Quantum Automata to Quaternions and Rational Pairing Functions_
+
+{{< spoiler text="Abstract:" >}}
+
+We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
+
+{{< /spoiler >}}
+
+
+
+#### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) _Globe Hopping_
 
 
 #### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) _Recursive Sequences and Numeration_
 
+{{< spoiler text="Abstract:" >}}
+
 In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
 We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc. 
+
+{{< /spoiler >}}
 
 
 #### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) _tba_ 
@@ -97,6 +114,9 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 
 
 #### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris) _The Membership Problem for Hypergeometric Sequences_
+
+
+{{< spoiler text="Abstract:" >}}
 
 This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
@@ -115,6 +135,8 @@ split over a quadratic extension of $\mathbb{Q}$.
 This talk is based on two papers appearing in ISSAC'22 and ISSAC'23,
 and are in collaboration with George Kenison, Amaury Pouly, Klara
 Nosan, and  James Worrell.
+
+{{< /spoiler >}}
 
 ---
 
