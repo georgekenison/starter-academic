@@ -111,18 +111,38 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 
 {{< /spoiler >}}
 
-
 #### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
 
 _tba_ 
 
 #### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
 
-_tba_
+{{< spoiler text="_Universal Skolem Sets_">}}
+
+The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.
+
+This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.
+
+{{< /spoiler >}}
 
 #### [Veronika Pillwein](https://risc.jku.at/m/veronika-pillwein/) (JKU) 
 
-_tba_ 
+{{< spoiler text="_The Positivity Problem for Recurrent Sequences_">}}
+
+Proving positivity of sequences that are defined by recurrences is very
+hard. Even when restricted to the seemingly simple class of sequences
+defined by linear recurrences with constant coefficients (C-finite
+sequences), decidability of the positivity problem is only known for
+orders up to five.
+
+On the other hand, some computer algebra methods are able to tackle this
+problem. Obviously, they do not succeed with all types of input and even
+though correctness can be proven, termination is typically an issue. In
+this talk, we will give an overview on this topic, present some
+available methods and show cases where algorithmic proofs actually
+succeeded.
+
+{{< /spoiler >}}
 
 #### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) 
 
