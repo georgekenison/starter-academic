@@ -23,7 +23,9 @@ tags: # (Core)
 
 ## Workshop On Reachability, Recurrences, and Loops
 ### Satellite Workshop at [ICALP 2023](https://icalp2023.cs.upb.de/)
-#### Paderborn, Germany (Monday 10th July 2023)
+#### Heinz Nixdorf MuseumsForum (HNF), Seminar Room 5
+#### Paderborn, Germany 
+#### Monday 10th July 2023
 #### [Workshop Registration Link](https://icalp2023.cs.upb.de/registration/)
 
 ---
@@ -65,7 +67,7 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 
 ---
 
-## Confirmed Speakers
+## Speakers and Talks
 
 (Click on a talk title for the abstract.)
 
