@@ -28,35 +28,41 @@ Professor James Worrell
 &lt;h2 id="participation">Participation&lt;/h2>
 &lt;p>To participate in-person, please register for WORReLL'23 through ICALP&amp;rsquo;s &lt;a href="https://icalp2023.cs.upb.de/registration/" target="_blank" rel="noopener">registration portal&lt;/a>. To participate remotely over Zoom, please contact the organisers for further details.&lt;/p>
 &lt;hr>
-&lt;h2 id="confirmed-speakers-and-talks">Confirmed Speakers and Talks&lt;/h2>
-&lt;h4 id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-_on-the-complexity-of-the-sum-of-square-roots-problem_">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi) &lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/h4>
+&lt;h2 id="confirmed-speakers">Confirmed Speakers&lt;/h2>
+&lt;p>(Click on a talk title for the abstract.)&lt;/p>
+&lt;h4 id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi)&lt;/h4>
 &lt;details class="spoiler " id="spoiler-1">
-&lt;summary>Abstract:&lt;/summary>
+&lt;summary>&lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/summary>
 &lt;p>Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt; \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR.
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the &amp;ldquo;numerical hardness&amp;rdquo; of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient &amp;ldquo;non-uniform&amp;rdquo; algorithms for this problem.&lt;/p>
 &lt;/details>
-&lt;h4 id="paul-bellhttpspcbellgithubio-keele-_from-quantum-automata-to-quaternions-and-rational-pairing-functions_">&lt;a href="https://pcbell.github.io/" target="_blank" rel="noopener">Paul Bell&lt;/a> (Keele) &lt;em>From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em>&lt;/h4>
+&lt;h4 id="paul-bellhttpspcbellgithubio-keele">&lt;a href="https://pcbell.github.io/" target="_blank" rel="noopener">Paul Bell&lt;/a> (Keele)&lt;/h4>
 &lt;details class="spoiler " id="spoiler-2">
-&lt;summary>Abstract:&lt;/summary>
+&lt;summary>&lt;em>From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em>&lt;/summary>
 &lt;p>We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p>
 &lt;/details>
-&lt;h4 id="dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick-_globe-hopping_">&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick) &lt;em>Globe Hopping&lt;/em>&lt;/h4>
-&lt;h4 id="valérie-berthéhttpswwwiriffrberthe-cnrs-paris-_recursive-sequences-and-numeration_">&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris) &lt;em>Recursive Sequences and Numeration&lt;/em>&lt;/h4>
+&lt;h4 id="dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick">&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick)&lt;/h4>
+&lt;p>&lt;em>Globe Hopping&lt;/em>&lt;/p>
+&lt;h4 id="valérie-berthéhttpswwwiriffrberthe-cnrs-paris">&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris)&lt;/h4>
 &lt;details class="spoiler " id="spoiler-3">
-&lt;summary>Abstract:&lt;/summary>
+&lt;summary>&lt;em>Recursive Sequences and Numeration&lt;/em>&lt;/summary>
 &lt;p>In this lecture we revisit recursive sequences from the view point of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed the definition of numerations for both integers and real numbers.
 We focus on the so-called finiteness property which means that the set of elements having a finite expansion forms a ring, and on its numerous applications in arithmetics, aperiodic order, fractal geometry etc.&lt;/p>
 &lt;/details>
-&lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand-_tba_">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand) &lt;em>tba&lt;/em>&lt;/h4>
-&lt;h4 id="joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws-_tba_">&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS) &lt;em>tba&lt;/em>&lt;/h4>
-&lt;h4 id="veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku-_tba_">&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU) &lt;em>tba&lt;/em>&lt;/h4>
-&lt;h4 id="igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool-_tba_">&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> (Liverpool) &lt;em>tba&lt;/em>&lt;/h4>
-&lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris-_the-membership-problem-for-hypergeometric-sequences_">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris) &lt;em>The Membership Problem for Hypergeometric Sequences&lt;/em>&lt;/h4>
+&lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand)&lt;/h4>
+&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;h4 id="joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws">&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS)&lt;/h4>
+&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;h4 id="veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku">&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU)&lt;/h4>
+&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;h4 id="igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool">&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> (Liverpool)&lt;/h4>
+&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris)&lt;/h4>
 &lt;details class="spoiler " id="spoiler-4">
-&lt;summary>Abstract:&lt;/summary>
+&lt;summary>&lt;em>The Membership Problem for Hypergeometric Sequences&lt;/em>&lt;/summary>
 &lt;p>&lt;p>This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
@@ -77,7 +83,19 @@ Nosan, and James Worrell.&lt;/p>
 &lt;/details>
 &lt;hr>
 &lt;h2 id="schedule">Schedule&lt;/h2>
-&lt;p>To be announced&lt;/p>
+&lt;p>09:00&amp;ndash;09:45 Valérie Berthé &lt;br>
+09:45&amp;ndash;10:30 Dmitry Chistikov&lt;/p>
+&lt;p>&lt;em>Coffee Break&lt;/em>&lt;/p>
+&lt;p>11:00&amp;ndash;11:45 Mahsa Shirmohammadi &lt;br>
+11:45&amp;ndash;12:30 Florian Luca&lt;/p>
+&lt;p>&lt;em>Lunch&lt;/em>&lt;/p>
+&lt;p>14:05&amp;ndash;14:25 Veronika Pillwein (Online) &lt;br>
+14:25&amp;ndash;14:45 Nikhil Balaji &lt;br>
+14:45&amp;ndash;15:30 Paul Bell&lt;/p>
+&lt;p>&lt;em>Coffee Break&lt;/em>&lt;/p>
+&lt;p>16:00&amp;ndash;16:45 Igor Potapov &lt;br>
+16:45&amp;ndash;17:30 Joël Ouaknine&lt;/p>
+&lt;p>&lt;em>Workshop Ends. ICALP food and drinks event begins.&lt;/em>&lt;/p>
 &lt;hr>
 &lt;h2 id="organisers">Organisers&lt;/h2>
 &lt;ul>
