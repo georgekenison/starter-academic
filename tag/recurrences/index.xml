@@ -57,13 +57,32 @@ We focus on the so-called finiteness property which means that the set of elemen
 &lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand)&lt;/h4>
 &lt;p>&lt;em>tba&lt;/em>&lt;/p>
 &lt;h4 id="joël-ouakninehttpspeoplempi-swsorgjoel-mpi-sws">&lt;a href="https://people.mpi-sws.org/~joel/" target="_blank" rel="noopener">Joël Ouaknine&lt;/a> (MPI-SWS)&lt;/h4>
-&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;details class="spoiler " id="spoiler-4">
+&lt;summary>&lt;em>Universal Skolem Sets&lt;/em>&lt;/summary>
+&lt;p>&lt;p>The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.&lt;/p>
+&lt;p>This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.&lt;/p>
+&lt;/p>
+&lt;/details>
 &lt;h4 id="veronika-pillweinhttpsriscjkuatmveronika-pillwein-jku">&lt;a href="https://risc.jku.at/m/veronika-pillwein/" target="_blank" rel="noopener">Veronika Pillwein&lt;/a> (JKU)&lt;/h4>
-&lt;p>&lt;em>tba&lt;/em>&lt;/p>
+&lt;details class="spoiler " id="spoiler-5">
+&lt;summary>&lt;em>The Positivity Problem for Recurrent Sequences&lt;/em>&lt;/summary>
+&lt;p>&lt;p>Proving positivity of sequences that are defined by recurrences is very
+hard. Even when restricted to the seemingly simple class of sequences
+defined by linear recurrences with constant coefficients (C-finite
+sequences), decidability of the positivity problem is only known for
+orders up to five.&lt;/p>
+&lt;p>On the other hand, some computer algebra methods are able to tackle this
+problem. Obviously, they do not succeed with all types of input and even
+though correctness can be proven, termination is typically an issue. In
+this talk, we will give an overview on this topic, present some
+available methods and show cases where algorithmic proofs actually
+succeeded.&lt;/p>
+&lt;/p>
+&lt;/details>
 &lt;h4 id="igor-potapovhttpscgicsclivacukigorigor_potapovs_home_pagehomehtml-liverpool">&lt;a href="https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html" target="_blank" rel="noopener">Igor Potapov&lt;/a> (Liverpool)&lt;/h4>
 &lt;p>&lt;em>tba&lt;/em>&lt;/p>
 &lt;h4 id="mahsa-shirmohammadihttpswwwiriffrmahsa-cnrs-paris">&lt;a href="https://www.irif.fr/~mahsa/" target="_blank" rel="noopener">Mahsa Shirmohammadi&lt;/a> (CNRS, Paris)&lt;/h4>
-&lt;details class="spoiler " id="spoiler-4">
+&lt;details class="spoiler " id="spoiler-6">
 &lt;summary>&lt;em>The Membership Problem for Hypergeometric Sequences&lt;/em>&lt;/summary>
 &lt;p>&lt;p>This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\langle u_n \rangle_{n=0}^{\infty}$
