@@ -113,8 +113,6 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 
 #### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
 
-$T_{n+3} = T_{n+2}$ 
-
 
 {{< spoiler text="_Twisted Rational Zeros of Linearly Recurrent Sequences_">}}
 
