@@ -27,8 +27,10 @@ I am co-organising two workshops in July 2023: WORReLL'23  ([see here]({{< relre
 ---
 
 ### WORReLL'23
-WORRELL'23 is a one-day satellite workshop of at ICALP'23. 
+WORRELL'23 is a one-day satellite workshop at ICALP'23. 
 The aim of the workshop is to bring together researchers from the community and showcase cutting-edge research on _Reachability_, _Recurrences_, and _Loops_.
+
+To participate in-person, please register for WORReLL'23 through ICALP's [registration portal](https://icalp2023.cs.upb.de/registration/).  To participate remotely over Zoom, please contact me for further details.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ICALP2023?src=hash&amp;ref_src=twsrc%5Etfw">#ICALP2023</a> <a href="https://twitter.com/hashtag/Workshops?src=hash&amp;ref_src=twsrc%5Etfw">#Workshops</a> | July 10th <br>Workshop On Reachability, Recurrences, and Loops &#39;23 (WORReLL&#39;23)<br>👉Organizers:<br>&gt; George Kenison <a href="https://twitter.com/tu_wien?ref_src=twsrc%5Etfw">@tu_wien</a><br>&gt; Mahsa Shirmohammadi <a href="https://twitter.com/IRIF_Paris?ref_src=twsrc%5Etfw">@IRIF_Paris</a> <a href="https://twitter.com/univ_paris_cite?ref_src=twsrc%5Etfw">@univ_paris_cite</a> <a href="https://twitter.com/INS2I_CNRS?ref_src=twsrc%5Etfw">@INS2I_CNRS</a> <a href="https://t.co/tUhXQccIYu">pic.twitter.com/tUhXQccIYu</a></p>&mdash; ICALP 2023 (@ICALPconf) <a href="https://twitter.com/ICALPconf/status/1639282442539266052?ref_src=twsrc%5Etfw">March 24, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
