@@ -55,7 +55,6 @@ Linear recurrences allow indeed the definition of numerations for both integers 
 We focus on the so-called finiteness property which means that the set of elements having a finite expansion forms a ring, and on its numerous applications in arithmetics, aperiodic order, fractal geometry etc.&lt;/p>
 &lt;/details>
 &lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand)&lt;/h4>
-&lt;p>$T_{n+3} = T_{n+2}$&lt;/p>
 &lt;details class="spoiler " id="spoiler-4">
 &lt;summary>&lt;em>Twisted Rational Zeros of Linearly Recurrent Sequences&lt;/em>&lt;/summary>
 &lt;p>&lt;p>Let $( T_n )_{n} \in \mathbb{Z}$ be the Tribonacci numbers.
