@@ -113,7 +113,18 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 
 #### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
 
-_tba_ 
+
+{{< spoiler text="_Twisted Rational Zeros of Linearly Recurrent Sequences_">}}
+
+Let $( T_n )_{n} \\in \\mathbb{Z}$ be the Tribonacci numbers given by $T_0=0$ and $T_1 = T_2$ with $T_0 = 0$ and $T_1 = T_2 =1$.
+Marques and Lengyel (2014) obtained a formula relating the $2$-adic valuation of $T_n$ with the $2$-adic valuation of a linear function of $n$ (which might be constant) according to the residue class of $n$ modulo $32$ and optimistically conjectured that a similar formula holds true for every prime $p$. 
+In the first part of the talk, we will see that their conjecture was indeed far too optimistic; in particular, it fails for all but seven primes below $600$. Along the way, we are led to consider a certain twisted rational zero of a linearly recurrent sequence. We prove that non-degenerate linearly recurrent sequences have only finitely many such twisted rational zeros, which may be seen as an extension of the Skolem--Mahler--Lech theorem. While our method is, in general, not effective, in some cases we can compute all such twisted rational zeros. In particular, returning to the Tribonacci sequence we show that its only twisted rational zeros are the integral ones $-17,-4,-1,0$ together with the rational non-integral ones $1/3$ and $-5/3$.
+
+
+This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.
+
+{{< /spoiler >}}
+
 
 #### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
 
