@@ -254,7 +254,7 @@ Professor James Worrell
 &lt;details class="spoiler " id="spoiler-1">
 &lt;summary>&lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/summary>
 &lt;p>Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
-problem (SSR) is the computational problem of checking if $\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt; \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}$.
+problem (SSR) is the computational problem of checking if $$\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} &amp;gt; \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}.$$
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR.
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the &amp;ldquo;numerical hardness&amp;rdquo; of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient &amp;ldquo;non-uniform&amp;rdquo; algorithms for this problem.&lt;/p>
 &lt;/details>
