@@ -99,7 +99,7 @@ We investigate some recent results on injectivity for Quantum Finite Automata. W
 #### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) 
 
 
-{{< spoiler text="_Globe Hopping_" >}}
+{{< spoiler text="_Globe-Hopping_" >}}
 
 
 I will talk about the following geometric puzzle.
