@@ -98,7 +98,26 @@ We investigate some recent results on injectivity for Quantum Finite Automata. W
 
 #### [Dmitry Chistikov](https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/) (Warwick) 
 
-_Globe Hopping_
+
+{{< spoiler text="_Globe Hopping_" >}}
+
+
+I will talk about the following geometric puzzle.
+Take a random point ("grasshopper") from a set $L$ ("lawn", on the plane
+or on the sphere) and move it by a fixed distance in a random direction,
+once.
+How do you choose the shape of $L$, assuming a fixed area, so as to
+maximise the probability that the reached point is also in the set $L$?
+
+Surprisingly, in 2D the disc (circle) is known to be sub-optimal.
+In a spherical version of the problem, motivated by quantum information
+theory, the hemispherical lawn is or is not optimal, depending
+on the length of the jump: whether it is a rational or irrational multiple
+of $\pi$, and if rational, then on the numerator in lowest terms.
+
+Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.
+
+{{< /spoiler >}}
 
 
 #### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
@@ -157,7 +176,9 @@ succeeded.
 
 #### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) 
 
-_tba_
+{{< spoiler text="_tba_">}}
+
+{{< /spoiler >}}
 
 
 #### [Mahsa Shirmohammadi](https://www.irif.fr/~mahsa/) (CNRS, Paris)
@@ -209,7 +230,7 @@ _Coffee Break_
 16:00--16:45 Igor Potapov <br>
 16:45--17:30 Joël Ouaknine
 
-_Workshop Ends. ICALP food and drinks event begins._
+_Workshop Ends. (ICALP food and drinks event begins.)_
 
 ---
 
