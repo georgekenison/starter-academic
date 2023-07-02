@@ -210,6 +210,10 @@ Nosan, and  James Worrell.
 
 ## Schedule
 
+(All times are UTC+02:00)
+
+_08:00--09:00 Registration_
+
 
 09:00--09:45 Valérie Berthé <br>
 09:45--10:30 Dmitry Chistikov 
