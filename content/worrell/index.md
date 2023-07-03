@@ -176,7 +176,9 @@ succeeded.
 
 #### [Igor Potapov](https://cgi.csc.liv.ac.uk/~igor/Igor_Potapovs_Home_Page/Home.html) (Liverpool) 
 
-{{< spoiler text="_tba_">}}
+{{< spoiler text="_Reachability Problems on Matrices and Maps_">}}
+
+A large number of naturally defined matrix problems are still unanswered, despite the long history of matrix theory.  In this presentation, I will discuss a number of challenging computational problems for matrix semigroups and their connections to matrix equations, iterative maps and linear recurrence sequences. Some of these problems are still unsolved but at the same time identified as reference points in the algorithmic analysis of reachability problems. The cornerstones of these reachability problems are in the synergy of the questions in mathematics and computer science: computability, automata theory, matrix theory, combinatorics, abstract algebra, number theory, etc. The main objective of future research is in developing new concepts and methods combining symbolic and numerical techniques as well as unifying the results in automata, computability, number and matrix theories.
 
 {{< /spoiler >}}
 
