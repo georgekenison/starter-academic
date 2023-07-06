@@ -27,10 +27,10 @@ In this paper, we focus on the important subclass of
   for reversible LRS of order $11$ or less, and for simple reversible
   LRS of order $17$ or less. "
 
-doi: ""
+doi: "10.4230/LIPIcs.ICALP.2023.130"
 tags : ["decision problems", "recurrence sequences", "Positivity Problem"]
 links:
-url_pdf: ''
+url_pdf: 'https://drops.dagstuhl.de/opus/volltexte/2023/18182/pdf/LIPIcs-ICALP-2023-130.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -22,8 +22,8 @@ are monic polynomials that both split over a quadratic extension of
 $\\mathbb{Q}$. Our results are based on an analysis of the prime divisors of
 polynomial sequences $\\langle f(n) \\rangle$ and $\\langle g(n)
 \\rangle$ appearing in the recurrence relation."
-doi: "10.48550/arXiv.2303.09204"
 tags : ["decision problems", "Membership Problem", "hypergeometric sequences"]
+doi: "10.1145/3597066.3597121"
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2303.09204
