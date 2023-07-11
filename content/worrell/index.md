@@ -69,7 +69,7 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 
 ## Speakers and Talks
 
-(Click on a talk title for the abstract and slides.)
+(Click on a talk title for the abstract.)
 
 
 #### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) [(Slides)](/uploads/Balaji_slides.pdf){target="_blank"} 
