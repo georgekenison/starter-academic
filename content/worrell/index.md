@@ -69,10 +69,10 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 
 ## Speakers and Talks
 
-(Click on a talk title for the abstract.)
+(Click on a talk title for the abstract and slides.)
 
 
-#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
+#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) [(Slides)](/uploads/Balaji_slides.pdf){target="_blank"} 
 
 {{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
@@ -82,7 +82,7 @@ It is an essential primitive in Computational Geometry where efficient algorithm
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the "numerical hardness" of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient "non-uniform" algorithms for this problem.
 
 {{< /spoiler >}}
-  
+
   
   
   
@@ -91,6 +91,17 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 {{< spoiler text="_From Quantum Automata to Quaternions and Rational Pairing Functions_" >}}
 
 We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
+
+{{< /spoiler >}}
+
+
+#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) [(Slides)](/uploads/Berthe_slides.pdf){target="_blank"} 
+
+{{< spoiler text="_Recursive Sequences and Numeration_" >}}
+
+In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
+Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
+We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc. 
 
 {{< /spoiler >}}
 
@@ -120,15 +131,6 @@ Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.
 {{< /spoiler >}}
 
 
-#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
-
-{{< spoiler text="_Recursive Sequences and Numeration_" >}}
-
-In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
-Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
-We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc. 
-
-{{< /spoiler >}}
 
 #### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
 
