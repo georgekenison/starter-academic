@@ -32,7 +32,7 @@ Professor James Worrell
 &lt;hr>
 &lt;h2 id="speakers-and-talks">Speakers and Talks&lt;/h2>
 &lt;p>(Click on a talk title for the abstract.)&lt;/p>
-&lt;h4 id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi)&lt;/h4>
+&lt;h4 target="_blank" id="nikhil-balajihttpssitesgooglecomviewnikhilbalajihome-iit-delhi-slidesuploadsbalaji_slidespdf">&lt;a href="https://sites.google.com/view/nikhilbalaji/home" target="_blank" rel="noopener">Nikhil Balaji&lt;/a> (IIT Delhi) &lt;a href="https://georgekenison.github.io/uploads/Balaji_slides.pdf">(Slides)&lt;/a>&lt;/h4>
 &lt;details class="spoiler " id="spoiler-1">
 &lt;summary>&lt;em>On the Complexity of the Sum of Square Roots Problem&lt;/em>&lt;/summary>
 &lt;p>Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
@@ -45,8 +45,15 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 &lt;summary>&lt;em>From Quantum Automata to Quaternions and Rational Pairing Functions&lt;/em>&lt;/summary>
 &lt;p>We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.&lt;/p>
 &lt;/details>
-&lt;h4 id="dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick">&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick)&lt;/h4>
+&lt;h4 target="_blank" id="valérie-berthéhttpswwwiriffrberthe-cnrs-paris-slidesuploadsberthe_slidespdf">&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris) &lt;a href="https://georgekenison.github.io/uploads/Berthe_slides.pdf">(Slides)&lt;/a>&lt;/h4>
 &lt;details class="spoiler " id="spoiler-3">
+&lt;summary>&lt;em>Recursive Sequences and Numeration&lt;/em>&lt;/summary>
+&lt;p>In this lecture we revisit recursive sequences from the view point of numeration systems and their associated dynamical systems.
+Linear recurrences allow indeed the definition of numerations for both integers and real numbers.
+We focus on the so-called finiteness property which means that the set of elements having a finite expansion forms a ring, and on its numerous applications in arithmetics, aperiodic order, fractal geometry etc.&lt;/p>
+&lt;/details>
+&lt;h4 id="dmitry-chistikovhttpswarwickacukfacscidcspeopledmitry_chistikov-warwick">&lt;a href="https://warwick.ac.uk/fac/sci/dcs/people/dmitry_chistikov/" target="_blank" rel="noopener">Dmitry Chistikov&lt;/a> (Warwick)&lt;/h4>
+&lt;details class="spoiler " id="spoiler-4">
 &lt;summary>&lt;em>Globe-Hopping&lt;/em>&lt;/summary>
 &lt;p>&lt;p>I will talk about the following geometric puzzle.
 Take a random point (&amp;ldquo;grasshopper&amp;rdquo;) from a set $L$ (&amp;ldquo;lawn&amp;rdquo;, on the plane
@@ -61,13 +68,6 @@ on the length of the jump: whether it is a rational or irrational multiple
 of $\pi$, and if rational, then on the numerator in lowest terms.&lt;/p>
 &lt;p>Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.&lt;/p>
 &lt;/p>
-&lt;/details>
-&lt;h4 id="valérie-berthéhttpswwwiriffrberthe-cnrs-paris">&lt;a href="https://www.irif.fr/~berthe/" target="_blank" rel="noopener">Valérie Berthé&lt;/a> (CNRS, Paris)&lt;/h4>
-&lt;details class="spoiler " id="spoiler-4">
-&lt;summary>&lt;em>Recursive Sequences and Numeration&lt;/em>&lt;/summary>
-&lt;p>In this lecture we revisit recursive sequences from the view point of numeration systems and their associated dynamical systems.
-Linear recurrences allow indeed the definition of numerations for both integers and real numbers.
-We focus on the so-called finiteness property which means that the set of elements having a finite expansion forms a ring, and on its numerous applications in arithmetics, aperiodic order, fractal geometry etc.&lt;/p>
 &lt;/details>
 &lt;h4 id="florian-lucahttpswwwwitsaczastaffacademic-a-z-listinglflorianlucawitsacza-witwatersrand">&lt;a href="https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/" target="_blank" rel="noopener">Florian Luca&lt;/a> (Witwatersrand)&lt;/h4>
 &lt;details class="spoiler " id="spoiler-5">
