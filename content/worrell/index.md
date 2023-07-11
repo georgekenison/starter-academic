@@ -72,7 +72,7 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 (Click on a talk title for the abstract.)
 
 
-#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) [(Slides)](/uploads/Balaji_slides.pdf){target="_blank"} 
+#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) &emsp;   <font size="4"> [[Slides]](/uploads/Balaji_slides.pdf) </font>
 
 {{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
@@ -95,7 +95,7 @@ We investigate some recent results on injectivity for Quantum Finite Automata. W
 {{< /spoiler >}}
 
 
-#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) [(Slides)](/uploads/Berthe_slides.pdf){target="_blank"} 
+#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) &emsp;   <font size="4"> [[Slides]](/uploads/Berthe_slides.pdf) </font>
 
 {{< spoiler text="_Recursive Sequences and Numeration_" >}}
 
@@ -132,7 +132,7 @@ Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.
 
 
 
-#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) 
+#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) &emsp;   <font size="4"> [[Slides]](/uploads/Luca_slides.pdf) </font>
 
 
 {{< spoiler text="_Twisted Rational Zeros of Linearly Recurrent Sequences_">}}
@@ -147,7 +147,8 @@ This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.
 {{< /spoiler >}}
 
 
-#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
+#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS) &emsp;   <font size="4"> [[Slides]](/uploads/Ouaknine_slides.pdf) </font>
+
 
 {{< spoiler text="_Universal Skolem Sets_">}}
 
