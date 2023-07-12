@@ -45,7 +45,7 @@ Recursively defined sequences are foundational objects of study in the computati
 
 
 
-The aim of WORReLL'23 is to bring together researchers from the community and showcase cutting-edge research on the above topics.
+The aim of WORReLL'23 is to bring together researchers from the community and showcase cutting-edge research.
 The one-day workshop will also celebrate the research contributions of Professor James Worrell (also known as Ben). For context, Ben is giving an [invited talk](https://icalp2023.cs.upb.de/invited-speakers/) at ICALP this year.
 
 
@@ -67,41 +67,47 @@ To participate in-person, please register for WORReLL'23 through ICALP's [regist
 
 ---
 
-## Speakers and Talks
+## Speakers, Talks, and Slides
 
-(Click on a talk title for the abstract.)
+(Click on a talk title for the abstract and slides.)
 
 
-#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi) &emsp;   <font size="4"> [[Slides]](/uploads/Balaji_slides.pdf) </font>
+#### [Nikhil Balaji](https://sites.google.com/view/nikhilbalaji/home) (IIT Delhi)
 
 {{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
-Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
+Abstract: Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
 problem (SSR) is the computational problem of checking if $$\sqrt{a_1} + \sqrt{a_2} + \dots + \sqrt{a_n} >  \sqrt{b_1} + \sqrt{b_2} + \dots + \sqrt{b_m}.$$
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR. 
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the "numerical hardness" of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient "non-uniform" algorithms for this problem.
 
+{{% staticref "/uploads/Balaji_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+
+
 {{< /spoiler >}}
 
-  
   
   
 #### [Paul Bell](https://pcbell.github.io/) (Keele)
 
 {{< spoiler text="_From Quantum Automata to Quaternions and Rational Pairing Functions_" >}}
 
-We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
+Abstract: We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
+
+{{% staticref "/uploads/Bell_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
 
-#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris) &emsp;   <font size="4"> [[Slides]](/uploads/Berthe_slides.pdf) </font>
+#### [Valérie Berthé](https://www.irif.fr/~berthe/) (CNRS, Paris)
 
 {{< spoiler text="_Recursive Sequences and Numeration_" >}}
 
-In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
+Abstract: In this lecture we revisit recursive sequences  from the view point  of numeration systems and their associated dynamical systems.
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
-We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc. 
+We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc.
+
+{{% staticref "/uploads/Berthe_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
@@ -113,7 +119,7 @@ We focus on the so-called finiteness property  which  means that  the set  of el
 {{< spoiler text="_Globe-Hopping_" >}}
 
 
-I will talk about the following geometric puzzle.
+Abstract: I will talk about the following geometric puzzle.
 Take a random point ("grasshopper") from a set $L$ ("lawn", on the plane
 or on the sphere) and move it by a fixed distance in a random direction,
 once.
@@ -132,29 +138,32 @@ Joint work with Olga Goulko, Adrian Kent, and Mike Paterson.
 
 
 
-#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand) &emsp;   <font size="4"> [[Slides]](/uploads/Luca_slides.pdf) </font>
-
+#### [Florian Luca](https://www.wits.ac.za/staff/academic-a-z-listing/l/florianlucawitsacza/) (Witwatersrand)
 
 {{< spoiler text="_Twisted Rational Zeros of Linearly Recurrent Sequences_">}}
 
-Let $( T_n )_{n} \\in \\mathbb{Z}$ be the Tribonacci numbers.
+Abstract: Let $( T_n )_{n} \\in \\mathbb{Z}$ be the Tribonacci numbers.
 Marques and Lengyel (2014) obtained a formula relating the $2$-adic valuation of $T_n$ with the $2$-adic valuation of a linear function of $n$ (which might be constant) according to the residue class of $n$ modulo $32$ and optimistically conjectured that a similar formula holds true for every prime $p$. 
 In the first part of the talk, we will see that their conjecture was indeed far too optimistic; in particular, it fails for all but seven primes below $600$. Along the way, we are led to consider a certain twisted rational zero of a linearly recurrent sequence. We prove that non-degenerate linearly recurrent sequences have only finitely many such twisted rational zeros, which may be seen as an extension of the Skolem--Mahler--Lech theorem. While our method is, in general, not effective, in some cases we can compute all such twisted rational zeros. In particular, returning to the Tribonacci sequence we show that its only twisted rational zeros are the integral ones $-17,-4,-1,0$ together with the rational non-integral ones $1/3$ and $-5/3$.
 
 
 This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.
 
+{{% staticref "/uploads/Luca_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+
 {{< /spoiler >}}
 
 
-#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS) &emsp;   <font size="4"> [[Slides]](/uploads/Ouaknine_slides.pdf) </font>
+#### [Joël Ouaknine](https://people.mpi-sws.org/~joel/) (MPI-SWS)
 
 
 {{< spoiler text="_Universal Skolem Sets_">}}
 
-The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.
+Abstract: The Skolem Problem asks to determine whether a given integer linear recurrence sequence (such as the Fibonacci numbers) has a zero term. This problem, whose decidability has been open for many decades, arises across a wide range of topics in computer science, including loop termination, probabilistic model checking, weighted automata theory, and dynamical systems, amongst many others. Recently, a new line of attack to the Skolem Problem was initiated via the notion of a Universal Skolem Set: a set S of positive integers such that it is decidable whether a given linear recurrence sequence has a zero in S. I will present an overview of this approach.
 
 This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.
+
+{{% staticref "/uploads/Ouaknine_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
@@ -162,7 +171,7 @@ This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James
 
 {{< spoiler text="_The Positivity Problem for Recurrent Sequences_">}}
 
-Proving positivity of sequences that are defined by recurrences is very
+Abstract: Proving positivity of sequences that are defined by recurrences is very
 hard. Even when restricted to the seemingly simple class of sequences
 defined by linear recurrences with constant coefficients (C-finite
 sequences), decidability of the positivity problem is only known for
@@ -181,7 +190,7 @@ succeeded.
 
 {{< spoiler text="_Reachability Problems on Matrices and Maps_">}}
 
-A large number of naturally defined matrix problems are still unanswered, despite the long history of matrix theory.  In this presentation, I will discuss a number of challenging computational problems for matrix semigroups and their connections to matrix equations, iterative maps and linear recurrence sequences. Some of these problems are still unsolved but at the same time identified as reference points in the algorithmic analysis of reachability problems. The cornerstones of these reachability problems are in the synergy of the questions in mathematics and computer science: computability, automata theory, matrix theory, combinatorics, abstract algebra, number theory, etc. The main objective of future research is in developing new concepts and methods combining symbolic and numerical techniques as well as unifying the results in automata, computability, number and matrix theories.
+Abstract: A large number of naturally defined matrix problems are still unanswered, despite the long history of matrix theory.  In this presentation, I will discuss a number of challenging computational problems for matrix semigroups and their connections to matrix equations, iterative maps and linear recurrence sequences. Some of these problems are still unsolved but at the same time identified as reference points in the algorithmic analysis of reachability problems. The cornerstones of these reachability problems are in the synergy of the questions in mathematics and computer science: computability, automata theory, matrix theory, combinatorics, abstract algebra, number theory, etc. The main objective of future research is in developing new concepts and methods combining symbolic and numerical techniques as well as unifying the results in automata, computability, number and matrix theories.
 
 {{< /spoiler >}}
 
@@ -191,7 +200,7 @@ A large number of naturally defined matrix problems are still unanswered, despit
 
 {{< spoiler text="_The Membership Problem for Hypergeometric Sequences_" >}}
 
-This talk is on the Membership problem for rational-valued
+Abstract: This talk is on the Membership problem for rational-valued
 hypergeometric sequences. Such sequences $\\langle u_n \\rangle_{n=0}^{\infty}$
 satisfies a first-order linear recurrence relation with polynomial
 coefficients; that is,  a recurrence of the form $f(n)u_n =
