@@ -33,7 +33,7 @@ education:
   - course: PhD in Mathematics
     institution: University of Warwick
     year: 2017
-  - course: MMath
+  - course: Master of Mathematics
     institution: University of Warwick
     year: 2013
 
