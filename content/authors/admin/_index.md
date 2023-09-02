@@ -10,11 +10,11 @@ last_name: Kenison
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technische Universität Wien
+  - name: Liverpool John Moores University
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,7 +94,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a research associate, at the Technische Universität Wien, working in formal verification and program analysis.  I was previously a research associate in infinite-state systems and dynamical systems at the University of Oxford.
+I am a research fellow in Computer Science and Informatics at Liverpool John Moores University.  Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis.  I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford.
 
 My research interests span asymptotic properties of groups, symbolic dynamics, linear dynamical systems, verification, and decision problems. Much of my recent work considers the Skolem and Positivity Problems, two long-standing open decision problems, for recurrence sequences.
 
