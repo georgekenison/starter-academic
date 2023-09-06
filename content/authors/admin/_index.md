@@ -96,9 +96,9 @@ highlight_name: true
 
 I am a research fellow in Computer Science and Informatics at Liverpool John Moores University.  Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis.  I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford.
 
-My research interests span asymptotic properties of groups, symbolic dynamics, linear dynamical systems, verification, and decision problems. Much of my recent work considers the Skolem and Positivity Problems, two long-standing open decision problems, for recurrence sequences.
+My research interests span asymptotic properties of groups, symbolic dynamics, linear dynamical systems, formal verification, and decision problems. Much of my recent work considers the Skolem and Positivity Problems, two long-standing open decision problems, for recurrence sequences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} george.kenison@tuwien.ac.at
+{{< icon name="envelope" pack="fas" >}} g.j.kenison@ljmu.ac.uk
 
