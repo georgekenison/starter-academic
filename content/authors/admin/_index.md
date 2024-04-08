@@ -21,11 +21,11 @@ organizations:
 bio: ""
 
 interests:
-- Automated Verification
-- Dynamical Systems
-- Formal Methods
+- Theory of Computation
+- Computational Complexity
+- Algebraic Dynamical Systems
 - Program Analysis
-- Program Synthesis
+- Automated Verification
 
 
 education:
@@ -33,7 +33,7 @@ education:
   - course: PhD in Mathematics
     institution: University of Warwick
     year: 2017
-  - course: Master of Mathematics
+  - course: Masters of Mathematics
     institution: University of Warwick
     year: 2013
 
@@ -96,9 +96,10 @@ highlight_name: true
 
 I am a research fellow in Computer Science and Informatics at Liverpool John Moores University.  Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis.  I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford.
 
-My research interests span asymptotic properties of groups, symbolic dynamics, linear dynamical systems, formal methods, and decision problems. Much of my recent work considers the Skolem and Positivity Problems, two long-standing open decision problems, for recurrence sequences.
+My academic interests lie in computational aspects of Algebraic Dynamical Systems and their applications in Verification and Program Analysis.
+My research advances scientific frontiers in the Theory of Computation and Computational Complexity through the design and analysis of algorithms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} g.j.kenison@ljmu.ac.uk
+{{< icon name="envelope" pack="fas" >}} g.j.surname@ljmu.ac.uk
 
