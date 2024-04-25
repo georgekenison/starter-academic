@@ -5,7 +5,7 @@ publishDate:
 authors: ["D. Amrollahi", "E. Bartocci", "G. Kenison", "L. Kovács", "M. Moosbrugger", "M. Stankovič"]
 publication_types: ["1"]
 featured: false
-publication: "International Static Analysis Symposium, SAS '22"
+publication: "*International Static Analysis Symposium, SAS '22*"
 
 abstract: "Automatically generating invariants, key to computer-aided analysis of probabilistic and
 deterministic programs and compiler optimisation, is a challenging open problem. Whilst the problem
