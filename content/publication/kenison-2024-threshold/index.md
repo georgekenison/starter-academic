@@ -1,6 +1,6 @@
 ---
 title: "The Threshold Problem for Hypergeometric Sequences with Quadratic Parameters"
-date: 2024-04-11
+date: 2024-07-02
 publishDate:
 authors: ["G. Kenison"]
 publication_types: ["1"]
