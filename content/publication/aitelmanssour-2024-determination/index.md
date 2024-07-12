@@ -34,8 +34,8 @@ tags : ["determination problems", "algebraic geometry", "orbit closures", "loop 
 links:
 links:
   - name: arXiv
-    url: https://arxiv.org/abs/tba
-url_pdf: 'https://arxiv.org/pdf/tba.pdf'
+    url: https://arxiv.org/abs/2407.04626
+url_pdf: https://arxiv.org/pdf/2407.04626
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -19,7 +19,7 @@ under the assumption that the coefficients $p$ and $q$ are monic polynomials who
 Finally, we show how our approach both recovers and extends some of the recent decidability results on the Membership Problem for hypergeometric sequences with quadratic parameters. "
 
 
-doi: "10.4230/LIPIcs.ICALP.2024.124"
+doi: "10.4230/LIPIcs.ICALP.2024.145"
 tags : ["decision problems", "Membership Problem", "Threshold Problem", "hypergeometric sequences"]
 links:
   - name: arXiv
