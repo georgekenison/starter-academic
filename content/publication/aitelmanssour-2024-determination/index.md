@@ -29,7 +29,7 @@ The main tools in our approach are rooted in structural properties of commutativ
 orbit closure of a point under an algebraic matrix group (without the requirement of commutativity).  In this regard, we note that a recent paper by Nosan et al. gives an elementary procedure to compute the orbit closure of a point under finitely many matrices.
 "
 
-doi: ""
+doi: "10.48550/arXiv.2407.04626"
 tags : ["determination problems", "algebraic geometry", "orbit closures", "loop synthesis", "computational complexity"]
 links:
 links:

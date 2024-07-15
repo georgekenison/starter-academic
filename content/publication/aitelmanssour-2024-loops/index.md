@@ -16,13 +16,13 @@ We examine various applications of our results on invariant generation, focusing
 In the context of  loop synthesis, we aim to construct a loop with an infinite set of reachable states that upholds a specified algebraic property as an invariant. The strong synthesis variant of this problem requires the construction of loops for which the given property is the strongest invariant. In terms of hardness, synthesising loops over integers (or rationals) is as hard as Hilbert's Tenth problem (or its analogue over the rationals). When loop constants are constrained to bit-bounded rational numbers, we demonstrate that loop synthesis and its strong variant are both  decidable in PSPACE, and in NP when  the  number of program variables is fixed. 
 "
 
-doi: ""
+doi: "10.48550/arXiv.2407.09154"
 tags : ["Algebraic Invariant", "Program Synthesis", "Loop Invariant", "Zariski Closure", "Polynomial Space", "Algebraic Reasoning"]
 links:
 links:
   - name: arXiv
-    url: https://arxiv.org/abs/tba
-url_pdf: https://arxiv.org/pdf/tba
+    url: https://arxiv.org/abs/2407.09154
+url_pdf: https://arxiv.org/pdf/2407.09154
 url_code: ''
 url_dataset: ''
 url_poster: ''
