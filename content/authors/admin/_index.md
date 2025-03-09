@@ -101,5 +101,5 @@ My research advances scientific frontiers in the Theory of Computation and Compu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} g.j.surname@ljmu.ac.uk
+{{< icon name="envelope" pack="fas" >}} g.j. ~surname~ @ljmu.ac.uk
 
