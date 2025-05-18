@@ -13,12 +13,11 @@ comments: false  # Show comments?
 ## Tagging your content helps users to discover similar content on your site. 
 ##    Tags can improve search relevancy and are displayed after the page content and also in the Tag Cloud widget.
 tags: # (Core)
-- Reachability
-- Recurrences
 - Loops
 - Loop Invariants
 - Invariant Generation
 - Invariant Verification
+- Algebraic Methods
 - Workshop
 
 
@@ -63,9 +62,6 @@ To participate in-person, please register for the workshop through ICALP's [regi
 
 <!--(Click on a talk title for the abstract and slides.)-->
 
-
-#### [Ride Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
-
 <!---{{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
 Abstract: Given positive integers $a_1, a_2, \dots, a_n$ and $b_1, b_2, \dots, b_m$, the Sum of Square Roots
@@ -79,12 +75,20 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 {{< /spoiler >}}
 --->
 
-  
+
+#### [Ride Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
+
   
 #### [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford)
 
+{{< spoiler text="_S-unit equations in modules_" >}}
 
-#### [Roland Guttenberg]() ()
+Abstract: Let M be a finitely presented module over a Laurent polynomial ring R. We consider S-unit equations over M: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in M and the variables $x_i$ range over the set of monomials of R. When the Laurent polynomial ring R has the base ring Z, (that is, $R = Z[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module M admits a solution. When R has the base ring Z/TZ for some integer T > 1, (that is, $R = (Z/TZ)[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module M admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over Z. This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
+
+{{< /spoiler >}}
+
+
+#### Roland Guttenberg (TUM)
 
 
 
@@ -97,15 +101,15 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 
 
 
-#### [Fatemeh Mohammadi]() ()
+#### [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
 
 
 
-#### [Mahsa Naraghi]() ()
+#### Mahsa Naraghi
 
 
 
-#### [Mohab Safey El Din]() () 
+#### [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/) (Sorbonne Université, CNRS, LIP6) 
 
 
 #### [Sylvain Schmitz](https://www.irif.fr/en/users/schmitz/index) (Université Paris Cité) 
