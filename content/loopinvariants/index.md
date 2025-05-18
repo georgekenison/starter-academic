@@ -76,49 +76,69 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 --->
 
 
-#### [Ride Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
+* [Ride Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
+    {{< spoiler text="TBC" >}}
+
+  {{< /spoiler >}}
 
   
-#### [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford)
+* [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford) {{< spoiler text="S-unit equations in modules" >}}
 
-{{< spoiler text="_S-unit equations in modules_" >}}
+  Abstract: Let M be a finitely presented module over a Laurent polynomial ring R. We consider S-unit equations over M: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in M and the variables $x_i$ range over the set of monomials of R. When the Laurent polynomial ring R has the base ring Z, (that is, $R = Z[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module M admits a solution. When R has the base ring Z/TZ for some integer T > 1, (that is, $R = (Z/TZ)[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module M admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over Z. This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
 
-Abstract: Let M be a finitely presented module over a Laurent polynomial ring R. We consider S-unit equations over M: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in M and the variables $x_i$ range over the set of monomials of R. When the Laurent polynomial ring R has the base ring Z, (that is, $R = Z[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module M admits a solution. When R has the base ring Z/TZ for some integer T > 1, (that is, $R = (Z/TZ)[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module M admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over Z. This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
-
-{{< /spoiler >}}
+  {{< /spoiler >}}
 
 
-#### Roland Guttenberg (TUM)
+* Roland Guttenberg (TUM)
+
+  <details>
+  <summary>TBC</summary>
+  </details>
 
 
+* [Toghrul Karimov](https://toghrul-karimov.github.io/) (MPI-SWS & IRIF)
 
-#### [Toghrul Karimov](https://toghrul-karimov.github.io/) (MPI-SWS & IRIF)
-
-
-
-#### [Nathan Lhote](https://pageperso.lis-lab.fr/~nathan.lhote/) (Aix-Marseille University) 
-
+  <details>
+  <summary>TBC</summary>
+  </details>
 
 
+* [Nathan Lhote](https://pageperso.lis-lab.fr/~nathan.lhote/) (Aix-Marseille University) 
 
-#### [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
-
-
-
-#### Mahsa Naraghi
-
+  <details>
+  <summary>TBC</summary>
+  </details>
 
 
-#### [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/) (Sorbonne Université, CNRS, LIP6) 
+* [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
 
+  <details>
+  <summary>TBC</summary>
+  </details>
 
-#### [Sylvain Schmitz](https://www.irif.fr/en/users/schmitz/index) (Université Paris Cité) 
+* Mahsa Naraghi
 
+  <details>
+  <summary>TBC</summary>
+  </details>
 
+* [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/) (Sorbonne Université, CNRS, LIP6) 
 
-#### [Anton Varonka](https://informatics.tuwien.ac.at/people/anton-varonka) (TU Wien)
+  <details>
+  <summary>TBC</summary>
+  </details>
 
+* [Sylvain Schmitz](https://www.irif.fr/en/users/schmitz/index) (Université Paris Cité) 
 
+  <details>
+  <summary>TBC</summary>
+  </details>
+
+* [Anton Varonka](https://informatics.tuwien.ac.at/people/anton-varonka) (TU Wien)
+
+  <details>
+  <summary>TBC</summary>
+  </details>
 
 ---
 
