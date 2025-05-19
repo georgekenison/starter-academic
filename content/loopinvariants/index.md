@@ -25,7 +25,7 @@ tags: # (Core)
 
 ## Workshop On Loop Invariants and Algebraic Reasoning
 ### Satellite Workshop at [ICALP 2025](https://conferences.au.dk/icalp2025)
-#### The Mathematics Canteen (Department of Mathematics, Aarhus Universitetsparken), at Ny Munkegade 116, 8000 Aarhus C
+#### The Mathematics Canteen (Department of Mathematics, Aarhus Universitetsparken), at [Ny Munkegade 116, 8000 Aarhus C   <i class="fa-solid fa-map-location-dot"></i>](https://maps.app.goo.gl/qnPCqeHnFTTSovsF8)
 #### Aarhus, Denmark 
 #### Monday 07th July 2025
 #### [Workshop Registration Link](https://conferences.au.dk/icalp2025/registration)
@@ -60,7 +60,7 @@ To participate in-person, please register for the workshop through ICALP's [regi
 
 ## Speakers, Talks, and Slides
 
-<!--(Click on a talk title for the abstract and slides.)-->
+(Click on a talk title for the abstract.)
 
 <!---{{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
@@ -96,7 +96,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   </details>
 
 
-* [Toghrul Karimov](https://toghrul-karimov.github.io/) (MPI-SWS & IRIF)
+* [Toghrul Karimov](https://toghrul-karimov.github.io/) (MPI-SWS)
 
   <details>
   <summary>TBC</summary>
@@ -116,7 +116,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   <summary>TBC</summary>
   </details>
 
-* Mahsa Naraghi
+* Mahsa Naraghi (Université Paris Cité)
 
   <details>
   <summary>TBC</summary>
