@@ -82,9 +82,9 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   {{< /spoiler >}}
 
   
-* [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford) {{< spoiler text="S-unit equations in modules" >}}
+* [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford) {{< spoiler text="**S-unit equations in modules**" >}}
 
-  Abstract: Let $M$ be a finitely presented module over a Laurent polynomial ring $R$. We consider S-unit equations over $M$: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in $M$ and the variables $x_i$ range over the set of monomials of $R$. When the Laurent polynomial ring $R$ has the base ring $\mathbb{Z}$, (that is, $R = \mathbb{Z}[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module $M$ admits a solution. When $R$ has the base ring $\mathbb{Z}/T\mathbb{Z}$ for some integer $T > 1$, (that is, $R = (\mathbb{Z}/T\mathbb{Z})[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module $M$ admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over $\mathbb{Z}$. This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
+  Abstract: Let $M$ be a finitely presented module over a Laurent polynomial ring $R$. We consider S-unit equations over $M$: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in $M$ and the variables $x_i$ range over the set of monomials of $R$. When the Laurent polynomial ring $R$ has the base ring $\mathbb{Z}$, (that is, $R = \mathbb{Z}[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module $M$ admits a solution. When $R$ has the base ring $\mathbb{Z}/T\mathbb{Z}$ for some integer $T > 1$, (that is, $R = (\mathbb{Z}/T\mathbb{Z})[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module $M$ admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over $\mathbb{Z}$. <br> This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
 
   {{< /spoiler >}}
 
@@ -113,7 +113,8 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 * [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
 
   <details>
-  <summary>TBC</summary>
+  <summary><strong>Algebraic tools for computing polynomial loop invariants</strong></summary>
+    Loop invariants are properties of a loop program that hold before and after each iteration of the loop. They are often employed to verify programs and ensure that algorithms consistently produce correct results during execution. Consequently, the generation of invariants becomes a crucial task for loops. I specifically focus on polynomial loops, where both the loop conditions and assignments within the loop are expressed as polynomials. Although computing polynomial invariants for general loops is undecidable, efficient algorithms have been developed for certain classes of loops. For instance, when all assignments within a while loop involve linear polynomials, the loop becomes solvable. In this talk, I will discuss the more general case where the polynomials exhibit arbitrary degrees. Applying tools from algebraic geometry, I present two algorithms designed to generate all polynomial invariants for a while loop, up to a specified degree. These algorithms differ based on whether the initial values of the loop variables are given or treated as parameters. <br> This talk is based on joint work with Erdenebayar Bayarmagnai and Rémi Prébet.
   </details>
 
 * Mahsa Naraghi (Université Paris Cité)
