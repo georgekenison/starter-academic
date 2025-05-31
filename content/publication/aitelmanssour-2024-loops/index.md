@@ -1,11 +1,11 @@
 ---
 title: "Simple Linear Loops: Algebraic Invariants and Applications"
-date: 2024-07-12
-publishDate: 2024-07-12
+date: 2025-01-12
+publishDate: 2025-01-12
 authors: ["R. Ait El Manssour", "G. Kenison", "M. Shirmohammadi", "A. Varonka"]
-publication_types: ["3"]
+publication_types: ["1"]
 featured: false
-publication: ""
+publication: "*Proceedings of the ACM on Programming Languages, POPL'25*"
 
 abstract: "
 Automatic generation of loop invariants is a fundamental challenge in software verification. While this task is undecidable in general, it is decidable for certain restricted classes of programs. This work focuses on invariant generation for (branching-free) loops with a single linear update.
@@ -16,7 +16,7 @@ We examine various applications of our results on invariant generation, focusing
 In the context of  loop synthesis, we aim to construct a loop with an infinite set of reachable states that upholds a specified algebraic property as an invariant. The strong synthesis variant of this problem requires the construction of loops for which the given property is the strongest invariant. In terms of hardness, synthesising loops over integers (or rationals) is as hard as Hilbert's Tenth problem (or its analogue over the rationals). When loop constants are constrained to bit-bounded rational numbers, we demonstrate that loop synthesis and its strong variant are both  decidable in PSPACE, and in NP when  the  number of program variables is fixed. 
 "
 
-doi: "10.48550/arXiv.2407.09154"
+doi: "10.1145/3704862"
 tags : ["Algebraic Invariant", "Program Synthesis", "Loop Invariant", "Zariski Closure", "Polynomial Space", "Algebraic Reasoning"]
 links:
 links:
