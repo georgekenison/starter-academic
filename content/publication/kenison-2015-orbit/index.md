@@ -7,7 +7,7 @@ publication_types: ["2"]
 
 abstract: "In this paper we study the action of the fundamental group of a finite metric graph on its universal covering tree. We assume the graph is finite, connected and the degree of each vertex is at least three. Further, we assumean irrationality condition on the edge lengths. We obtain an asymptotic for the number of elements in a fixed conjugacy class for which the associated displacement of a given base vertex in the universal covering tree is at most $T$. Under a mild extra assumption we also obtain a polynomial error term."
 featured: false
-publication: "*J. Topol. Anal.*"
+publication: "*J. Topol. Anal*"
 doi: "10.1142/S1793525317500261"
 
 tags : ["orbit counting", "symbolic dynamics", "asymptotic properties of groups", "free groups", "metric trees", "thermodynamic formalism"]

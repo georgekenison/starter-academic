@@ -84,24 +84,24 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
   
 * [Ruiwen Dong](https://sites.google.com/view/ruiwen-dong/home) (Magdalen College, Oxford) {{< spoiler text="**S-unit equations in modules**" >}}
 
-  Abstract: Let $M$ be a finitely presented module over a Laurent polynomial ring $R$. We consider S-unit equations over $M$: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in $M$ and the variables $x_i$ range over the set of monomials of $R$. When the Laurent polynomial ring $R$ has the base ring $\mathbb{Z}$, (that is, $R = \mathbb{Z}[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module $M$ admits a solution. When $R$ has the base ring $\mathbb{Z}/T\mathbb{Z}$ for some integer $T > 1$, (that is, $R = (\mathbb{Z}/T\mathbb{Z})[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module $M$ admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over $\mathbb{Z}$. <br> <br> This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
+  Let $M$ be a finitely presented module over a Laurent polynomial ring $R$. We consider S-unit equations over $M$: these are equations of the form $x_1 m_1 + \cdots + x_K m_K = m_0$, where the coefficients $m_i$ are in $M$ and the variables $x_i$ range over the set of monomials of $R$. When the Laurent polynomial ring $R$ has the base ring $\mathbb{Z}$, (that is, $R = \mathbb{Z}[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that it is undecidable whether a given S-unit equation over a given module $M$ admits a solution. When $R$ has the base ring $\mathbb{Z}/T\mathbb{Z}$ for some integer $T > 1$, (that is, $R = (\mathbb{Z}/T\mathbb{Z})[X_1^{\pm}, \ldots, X_N^{\pm}]$), we show that the problem of deciding whether a given S-unit equation over a given module $M$ admits a solution is Turing equivalent to solving a system of linear-exponential Diophantine equations over $\mathbb{Z}$. <br> <br> This talk is based on a paper in SODA'25 as well as ongoing work with Doron Shafrir.
 
   {{< /spoiler >}}
 
 
 * Roland Guttenberg (TUM)
 
-  <details>
-  <summary><strong> Finite Rational Matrix Semigroups have at most Exponential Size </strong></summary>
+  {{< spoiler text="**Finite Rational Matrix Semigroups have at most Exponential Size**" >}}
   Weighted Automata or equivalently semigroups of matrices are a model for while loops with linear updates. While it has been shown that the optimal polynomial invariants for matrix semigroups can be computed, the algorithms have prohibitively high complexity. In ongoing work together with Rida Ait El Manssour, Nathan Lhote, Mahsa Shirmohammadi and James Worrell we are attempting to tackle the complexity by giving algorithms for identifying and solving simple subcases. <br> <br> The first such simple but interesting subcase are finite semigroups. While it is known that if a group of n-by-n matrices is finite, then it has size at most 2^n n!, for semigroups the best known bound is double exponential. We reduce this bound to a single exponential and obtain a PSPACE algorithm for deciding finiteness of a given matrix semigroup. Our main tool, which is applicable for any matrix semigroup, is the PTIME computation of an irreducible component decomposition. This can be viewed as a kind of extension of the decomposition of a graph into strongly-connected components.
-  </details>
+  {{< /spoiler >}}
 
 
 * [Toghrul Karimov](https://toghrul-karimov.github.io/) (MPI-SWS)
 
-  <details>
-  <summary>TBC</summary>
-  </details>
+  {{< spoiler text="**Applications of O-Minimality to Linear Loops**" >}}
+  
+  The Termination Problem for linear while loops subsumes, among others, the famous Skolem Problem for linear recurrence sequences, and      is consequently known to be decidable only in low dimensions (i.e. the number of program variables). We will discuss how o-minimality      of real numbers equipped with arithmetic and exponentiation can be used to prove sweeping decidability results--that do not depend on      the dimension--for certain robust variants of the classical decision problems of linear loops. This talk is largely based on the paper     "Verification of Linear Dynamical Systems via O-Minimality of the Real Numbers", which will appear at ICALP25.
+  {{</spoiler>}}
 
 
 * [Nathan Lhote](https://pageperso.lis-lab.fr/~nathan.lhote/) (Aix-Marseille University) 
@@ -113,10 +113,11 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 
 * [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
 
-  <details>
-  <summary><strong>Algebraic tools for computing polynomial loop invariants</strong></summary>
-    Loop invariants are properties of a loop program that hold before and after each iteration of the loop. They are often employed to verify programs and ensure that algorithms consistently produce correct results during execution. Consequently, the generation of invariants becomes a crucial task for loops. I specifically focus on polynomial loops, where both the loop conditions and assignments within the loop are expressed as polynomials. Although computing polynomial invariants for general loops is undecidable, efficient algorithms have been developed for certain classes of loops. For instance, when all assignments within a while loop involve linear polynomials, the loop becomes solvable. In this talk, I will discuss the more general case where the polynomials exhibit arbitrary degrees. Applying tools from algebraic geometry, I present two algorithms designed to generate all polynomial invariants for a while loop, up to a specified degree. These algorithms differ based on whether the initial values of the loop variables are given or treated as parameters. <br> <br> This talk is based on joint work with Erdenebayar Bayarmagnai and Rémi Prébet.
-  </details>
+  {{< spoiler text="**Algebraic tools for computing polynomial loop invariants**" >}}
+
+  Loop invariants are properties of a loop program that hold before and after each iteration of the loop. They are often employed to verify programs and ensure that algorithms consistently produce correct results during execution. Consequently, the generation of invariants becomes a crucial task for loops. I specifically focus on polynomial loops, where both the loop conditions and assignments within the loop are expressed as polynomials. Although computing polynomial invariants for general loops is undecidable, efficient algorithms have been developed for certain classes of loops. For instance, when all assignments within a while loop involve linear polynomials, the loop becomes solvable. In this talk, I will discuss the more general case where the polynomials exhibit arbitrary degrees. Applying tools from algebraic geometry, I present two algorithms designed to generate all polynomial invariants for a while loop, up to a specified degree. These algorithms differ based on whether the initial values of the loop variables are given or treated as parameters. <br> <br> This talk is based on joint work with Erdenebayar Bayarmagnai and Rémi Prébet.
+  
+  {{</spoiler>}}
 
 * Mahsa Naraghi (Université Paris Cité)
 
@@ -139,7 +140,22 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 * [Anton Varonka](https://informatics.tuwien.ac.at/people/anton-varonka) (TU Wien)
 
   <details>
-  <summary>TBC</summary>
+  <summary><strong> Rational Loop Synthesis </strong></summary>
+  <p>
+    Polynomial (equality) invariants have proven to be helpful in the inductive arguments about loop programs. The class of such invariants enjoys good closure properties and most importantly, allows for a finite representation of the set of all polynomial invariants for a given loop program. Therefore, a question of special theoretical interest concerns the decidability/complexity of finding this representation.
+  </p>
+
+  <p>
+      Notably, small changes in the program model can render the problem of generating all polynomial invariants undecidable. We discuss the landscape and focus on the question “What polynomials can be invariants of simple enough loops?”. In this talk, we consider the model of simple linear loops, where the update of the rational variable vector is given by a single rational matrix. Loops like these are exactly the linear dynamical systems, as known in the linear recurrence sequences community. We further restrict ourselves to the loops that attain infinitely many different vectors.
+  </p>
+
+  <p>
+      In order to understand the polynomial invariants of simple linear loops, we turn to the problem of loop synthesis from desired polynomial equalities. That is, we ask whether there exists a simple linear loop that has a given polynomial invariant. In this setting, synthesising a loop also means finding a vector of initial values---no surprise that loop synthesis is as hard as Hilbert's Tenth Problem over the rationals.
+  </p>
+
+  <p>
+    Our results concern the decidability of existence and, in addition, the algorithmic generation of loops from invariants. We will discuss special classes of input polynomials: quadratic equations and conjunctions of pure binomial equalities. Finally, we will introduce a bit-bounded version of loop synthesis--where the objective is to find a simple linear loop with input entries of a bounded size.
+  </p>
   </details>
 
 ---

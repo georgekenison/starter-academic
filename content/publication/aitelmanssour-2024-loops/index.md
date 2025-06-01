@@ -3,7 +3,7 @@ title: "Simple Linear Loops: Algebraic Invariants and Applications"
 date: 2025-01-12
 publishDate: 2025-01-12
 authors: ["R. Ait El Manssour", "G. Kenison", "M. Shirmohammadi", "A. Varonka"]
-publication_types: ["1"]
+publication_types: ["2"]
 featured: false
 publication: "*Proceedings of the ACM on Programming Languages, POPL'25*"
 
