@@ -112,9 +112,17 @@ Additionally, I will highlight how these results can be applied to verify propos
 
 * [Nathan Lhote](https://pageperso.lis-lab.fr/~nathan.lhote/) (Aix-Marseille University) 
 
-  <details>
-  <summary>TBC</summary>
-  </details>
+  {{< spoiler text="**Minimizing Cost Register Automata over a Field**" >}}
+
+
+
+Weighted automata (WA) are an extension of finite automata that define functions from words to values in a given semiring. An alternative deterministic model, called Cost Register Automata (CRA), was introduced by Alur et al. It enriches deterministic finite automata with a finite number of registers, which store values, updated at each transition using the operations of the semiring. It is known that CRA with register updates defined by linear maps have the same expressiveness as WA. Previous works have studied the register minimization problem: given a function computable by a WA and an integer k, is it possible to realize it using a CRA with at most k registers? In this paper, we solve this problem for CRA over a field with linear register updates, using the notion of linear hull, an algebraic invariant of WA introduced recently by Bell and Smertnig. We then generalise the approach to solve a more challenging problem, that consists in minimizing simultaneously the number of states and that of registers. Last, while the linear hull was recently shown to be computable by Bell and Smertnig, no complexity bounds were given. To fill this gap, we provide two new algorithms to compute invariants of WA. This allows us to show that the register (resp. state-register) minimization problem can be solved in 2-ExpTime (resp. in NExpTime).
+
+
+
+This is joint work with Yahia Idriss Benalioua and Pierre-Alain Reynier
+
+  {{</spoiler>}}
 
 
 * [Fatemeh Mohammadi](https://www.fatemehmohammadi.com/) (KU Leuven)
@@ -141,11 +149,26 @@ This ongoing work is in collaboration with Rida Ait El Manssour, Mahsa Shirmoham
 
   {{</spoiler>}}
 
-* [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/) (Sorbonne Université, CNRS, LIP6) 
+* [Mohab Safey El Din](https://www-polsys.lip6.fr/~safey/) (Sorbonne Université, CNRS, LIP6)
 
-  <details>
-  <summary>TBC</summary>
-  </details>
+  {{< spoiler text="**Modern algorithms for one block quantifier elimination over the reals**" >}}
+
+<p>
+One block quantifier elimination algorithms take as input a formula which consists of a (universal or existential) quantifier on real variables arising in some input polynomial constraints. These algorithms compute a logically equivalent quantifier-free formula of polynomial constraints. This problem is known to be solvable since Tarski's original work on elementary algebra and geometry.
+
+Quantifier elimination arises frequently in problems related to algebraic
+reasoning From a geometric perspective, one-block quantifier elimination
+computes a description of the projection of the real solution set to polynomial
+constraints on some affine subspace.
+
+In this talk, I will describe a new one block quantifier algorithm which
+leverages this geometric perspective. This yields  new complexity results and
+practical performances which outperform the current state-of-the-art algorithms
+on a large family of examples.
+</p>
+  
+  {{</spoiler>}}
+
 
 * [Sylvain Schmitz](https://www.irif.fr/en/users/schmitz/index) (Université Paris Cité) 
 
