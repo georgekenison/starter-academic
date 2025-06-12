@@ -76,7 +76,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 --->
 
 
-* [Ride Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
+* [Rida Ait El Manssour](https://ridaaitelmanssour.com/) (Oxford)
     {{< spoiler text="**Algebraic invariants of rational linear loops**" >}}
 Automatically generating loop invariants is essential for ensuring software correctness, yet it remains a challenging problem in general. In this talk, I will focus on a specific class of programs: branching-free loops with a single linear update. I will introduce a PSPACE algorithm that  computes all algebraic relationships that consistently hold among program variables throughout the loop’s execution.
 Additionally, I will highlight how these results can be applied to verify proposed invariants, and discuss promising directions for extending this approach to loops with multiple linear updates.
