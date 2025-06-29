@@ -136,7 +136,7 @@ This is joint work with Yahia Idriss Benalioua and Pierre-Alain Reynier
 * Mahsa Naraghi (Université Paris Cité)
 
   {{< spoiler text="**Algebraic Closure of Matrix Sets Recognized by 1-VASS**" >}}
-We prove that for any one-dimensional vector addition system with states (1-VASS), equipped with an alphabet and a morphism into the monoid of d-by-d rational matrices, the Zariski closure of the image of its language under the morphism is computable. To achieve this, we adapt Imre Simon’s concept of factorisation trees—originally developed for finite monoids—to the infinite monoid of rational matrices by replacing idempotent elements with stable matrices. Using tools from multilinear algebra, we show that every sequence of matrices can be represented as the yield of a factorisation tree whose height is bounded by an explicit function of the matrix dimension.
+We prove that for a 1-VASS $\mathcal V$, with labels $\Sigma$ and morphism $f:\Sigma^* \to M_d(\mathbb Q)$, the Zariski closure of $f(L(\mathcal V))$ is computable. To this end, we adapt Imre Simon’s factorisation trees—originally defined for finite monoids—to the infinite monoid $M_d(\mathbb Q)$ by replacing idempotent elements with stable matrices. We show, through multilinear algebraic arguments, that every sequence of matrices in $M_d(\mathbb Q)$ can be realised as the yield of a factorisation tree of height bounded by an explicit function of $d$.
 
 This work is in collaboration with Rida Ait El Manssour, Mahsa Shirmohammadi, and James Worrell.
 
