@@ -209,20 +209,25 @@ complexity of computing Gröbner bases.
 
 _08:30--09:00 Registration_
 
+- 09:00--10:00 **Mohab Safey El Din** · Modern algorithms for one block quantifier elimination over the reals
+- 10:00--10:30 **Fatemeh Mohammadi** · Algebraic tools for computing polynomial loop invariants
 
-09:00--10:30 Talks 
+_10:30--11:00 Coffee Break_
 
-_Coffee Break_
+- 11:00--11:30 **Rida Ait El Manssour** · Algebraic invariants of rational linear loops
+- 11:30--12:00 **Mahsa Naraghi** · Algebraic Closure of Matrix Sets Recognized by 1-VASS
+- 12:00--12:30 **Roland Guttenberg** · Finite Rational Matrix Semigroups have at most Exponential Size
 
-11:00--12:30 Talks
+_12:30--14:00 Lunch_
 
-_Lunch_
+- 14:00--15:00 **Nathan Lhote** · Minimizing Cost Register Automata over a Field
+- 15:00--15:30 **Sylvain Schmitz** · Polynomial Ideals and Order Ideals
 
-14:00--15:30 Talks
+_15:30--16:00 Coffee Break_
 
-_Coffee Break_
-
-16:00--17:30 Talks
+- 16:00--16:30 **Anton Varonka** · Rational Loop Synthesis
+- 16:30--17:00 **Ruiwen Dong** · S-unit equations in modules
+- 17:00--17:30 **Toghrul Karimov** · Applications of O-Minimality to Linear Loops
 
 _Workshop Ends_
 
