@@ -25,7 +25,7 @@ tags: # (Core)
 
 ## Workshop On Loop Invariants and Algebraic Reasoning
 ### Satellite Workshop at [ICALP 2025](https://conferences.au.dk/icalp2025)
-#### The Mathematics Canteen (Department of Mathematics, Aarhus Universitetsparken), at [Ny Munkegade 118, 8000 Aarhus C   <i class="fa-solid fa-map-location-dot"></i>](https://maps.app.goo.gl/qnPCqeHnFTTSovsF8)
+#### The Mathematics Canteen (Department of Mathematics, Aarhus Universitetsparken), at [Ny Munkegade 118, 8000 Aarhus C   <i class="fa-solid fa-map-location-dot"></i>](https://maps.app.goo.gl/djrtgJDzHwkLs3CR6)
 #### Aarhus, Denmark 
 #### Monday 07th July 2025
 #### [Workshop Registration Link](https://conferences.au.dk/icalp2025/registration)
