@@ -100,7 +100,7 @@ Additionally, I will highlight how these results can be applied to verify propos
   {{< spoiler text="**Finite Rational Matrix Semigroups have at most Exponential Size**" >}}
   Weighted Automata or equivalently semigroups of matrices are a model for while loops with linear updates. While it has been shown that the optimal polynomial invariants for matrix semigroups can be computed, the algorithms have prohibitively high complexity. In ongoing work together with Rida Ait El Manssour, Nathan Lhote, Mahsa Shirmohammadi and James Worrell we are attempting to tackle the complexity by giving algorithms for identifying and solving simple subcases. <br> <br> The first such simple but interesting subcase are finite semigroups. While it is known that if a group of n-by-n matrices is finite, then it has size at most 2^n n!, for semigroups the best known bound is double exponential. We reduce this bound to a single exponential and obtain a PSPACE algorithm for deciding finiteness of a given matrix semigroup. Our main tool, which is applicable for any matrix semigroup, is the PTIME computation of an irreducible component decomposition. This can be viewed as a kind of extension of the decomposition of a graph into strongly-connected components.
   
-  {{% staticref "/uploads/guttenberg_liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
+  {{% staticref "/uploads/guttenberg-liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
   {{< /spoiler >}}
 
 
