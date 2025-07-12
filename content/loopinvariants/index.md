@@ -60,7 +60,7 @@ To participate in-person, please register for the workshop through ICALP's [regi
 
 ## Speakers, Talks, and Slides
 
-(Click on a talk title for the abstract.)
+(Click on a talk title for the abstract and slides.)
 
 <!---{{< spoiler text="_On the Complexity of the Sum of Square Roots Problem_" >}}
 
@@ -99,6 +99,8 @@ Additionally, I will highlight how these results can be applied to verify propos
 
   {{< spoiler text="**Finite Rational Matrix Semigroups have at most Exponential Size**" >}}
   Weighted Automata or equivalently semigroups of matrices are a model for while loops with linear updates. While it has been shown that the optimal polynomial invariants for matrix semigroups can be computed, the algorithms have prohibitively high complexity. In ongoing work together with Rida Ait El Manssour, Nathan Lhote, Mahsa Shirmohammadi and James Worrell we are attempting to tackle the complexity by giving algorithms for identifying and solving simple subcases. <br> <br> The first such simple but interesting subcase are finite semigroups. While it is known that if a group of n-by-n matrices is finite, then it has size at most 2^n n!, for semigroups the best known bound is double exponential. We reduce this bound to a single exponential and obtain a PSPACE algorithm for deciding finiteness of a given matrix semigroup. Our main tool, which is applicable for any matrix semigroup, is the PTIME computation of an irreducible component decomposition. This can be viewed as a kind of extension of the decomposition of a graph into strongly-connected components.
+  
+  {{% staticref "/uploads/guttenberg_liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
   {{< /spoiler >}}
 
 
@@ -131,6 +133,9 @@ This is joint work with Yahia Idriss Benalioua and Pierre-Alain Reynier
 
   Loop invariants are properties of a loop program that hold before and after each iteration of the loop. They are often employed to verify programs and ensure that algorithms consistently produce correct results during execution. Consequently, the generation of invariants becomes a crucial task for loops. I specifically focus on polynomial loops, where both the loop conditions and assignments within the loop are expressed as polynomials. Although computing polynomial invariants for general loops is undecidable, efficient algorithms have been developed for certain classes of loops. For instance, when all assignments within a while loop involve linear polynomials, the loop becomes solvable. In this talk, I will discuss the more general case where the polynomials exhibit arbitrary degrees. Applying tools from algebraic geometry, I present two algorithms designed to generate all polynomial invariants for a while loop, up to a specified degree. These algorithms differ based on whether the initial values of the loop variables are given or treated as parameters. <br> <br> This talk is based on joint work with Erdenebayar Bayarmagnai and Rémi Prébet.
   
+  
+  {{% staticref "/uploads/mohammadi-liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
+  
   {{</spoiler>}}
 
 * Mahsa Naraghi (Université Paris Cité)
@@ -160,6 +165,9 @@ leverages this geometric perspective. This yields  new complexity results and
 practical performances which outperform the current state-of-the-art algorithms
 on a large family of examples.
 </p>
+
+
+  {{% staticref "/uploads/safeyeldin-liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
   
   {{</spoiler>}}
 
@@ -178,12 +186,14 @@ using recent results obtained with Schütze [ICALP 2024].  As a second illustrat
 complexity of computing Gröbner bases.
 </p>
 
-  {{</spoiler>}}
+  {{% staticref "/uploads/schmitz-liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
+  
+  {{< /spoiler >}}
 
 * [Anton Varonka](https://informatics.tuwien.ac.at/people/anton-varonka) (TU Wien)
 
-  <details>
-  <summary><strong> Rational Loop Synthesis </strong></summary>
+  {{< spoiler text="**Rational Loop Synthesis </strong**" >}}
+
   <p>
     Polynomial (equality) invariants have proven to be helpful in the inductive arguments about loop programs. The class of such invariants enjoys good closure properties and most importantly, allows for a finite representation of the set of all polynomial invariants for a given loop program. Therefore, a question of special theoretical interest concerns the decidability/complexity of finding this representation.
   </p>
@@ -199,7 +209,10 @@ complexity of computing Gröbner bases.
   <p>
     Our results concern the decidability of existence and, in addition, the algorithmic generation of loops from invariants. We will discuss special classes of input polynomials: quadratic equations and conjunctions of pure binomial equalities. Finally, we will introduce a bit-bounded version of loop synthesis--where the objective is to find a simple linear loop with input entries of a bounded size.
   </p>
-  </details>
+  
+      {{% staticref "/uploads/varonka-liar25.pdf" %}} Slides: &#128462; {{% /staticref %}}
+  
+  {{< /spoiler >}}
 
 ---
 
