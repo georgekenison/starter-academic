@@ -44,6 +44,10 @@ We establish the following:
 doi: ""
 tags : ["decision problems", "recurrence sequences", "holonomic sequences", "minimal solutions", "Positivity Problem", "continued fractions", "special functions", "periods", "exponential periods"]
 links:
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2007.12282
+url_pdf: https://arxiv.org/pdf/2007.12282
 url_pdf: 
 url_code: ''
 url_dataset: ''

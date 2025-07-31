@@ -15,6 +15,10 @@ We give an application of our effective results, towards the Membership Problem 
 doi: ""
 tags : ["decision problems", "recurrence sequences", "holonomic sequences", "Weil heights"]
 links:
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2507.22437
+url_pdf: https://arxiv.org/pdf/2507.22437
 url_pdf: ''
 url_code: ''
 url_dataset: ''
