@@ -10,11 +10,11 @@ last_name: Kenison
 superuser: true
 
 # Role/position/tagline
-role: Research Fellow
+role: ""
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Liverpool John Moores University
+  - name: ""
     url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -94,12 +94,12 @@ email: ''
 highlight_name: true
 ---
 
-I am a research fellow in Computer Science and Informatics at Liverpool John Moores University.  Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis.  I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford.
+<!-- I am a research fellow in Computer Science and Informatics at Liverpool John Moores University. Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis. I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford. -->
 
 My academic interests lie in computational aspects of Algebraic Dynamical Systems and their applications in Verification and Program Analysis.
-My research advances scientific frontiers in the Theory of Computation and Computational Complexity through the design and analysis of algorithms.
+My research advances scientific frontiers in the Theory of Computation through the design and analysis of algorithms.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
 
-{{< icon name="envelope" pack="fas" >}} g.j. ~surname~ @ljmu.ac.uk
+<!-- {{< icon name="envelope" pack="fas" >}} g.j. ~surname~ @ljmu.ac.uk -->
 
