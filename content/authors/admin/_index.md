@@ -22,7 +22,6 @@ bio: ""
 
 interests:
 - Theory of Computation
-- Computational Complexity
 - Algebraic Dynamical Systems
 - Program Analysis
 - Automated Verification
