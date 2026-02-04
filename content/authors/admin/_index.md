@@ -93,7 +93,9 @@ email: ''
 highlight_name: true
 ---
 
-<!-- I am a research fellow in Computer Science and Informatics at Liverpool John Moores University. Before moving to Liverpool, I was a research associate, at the Technische Universität Wien, working in Formal Verification and Program Analysis. I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford. -->
+I am a senior postdoctoral fellow at KU Leuven in the Department of Computer Science. I was previously a research fellow in Computer Science and Informatics at Liverpool John Moores University.  Before that, I was a research associate at both TU Wien and the University of Oxford.
+
+<!-- working in Formal Verification and Program Analysis. I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford. -->
 
 My academic interests lie in computational aspects of Algebraic Dynamical Systems and their applications in Verification and Program Analysis.
 My research advances scientific frontiers in the Theory of Computation through the design and analysis of algorithms.
