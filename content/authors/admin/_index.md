@@ -100,7 +100,7 @@ I am a senior postdoctoral fellow at KU Leuven in the Department of Computer Sci
 My academic interests lie in computational aspects of Algebraic Dynamical Systems and their applications in Verification and Program Analysis.
 My research advances scientific frontiers in the Theory of Computation through the design and analysis of algorithms.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}}
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}} -->
 
-<!-- {{< icon name="envelope" pack="fas" >}} g.j. ~surname~ @ljmu.ac.uk -->
+{{< icon name="envelope" pack="fas" >}} forename.surname @kuleuven.be
 
