@@ -102,6 +102,6 @@ My research primarily investigates the boundary between decidable and undecidabl
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}} -->
 
-{{< icon name="envelope" pack="fas" >}} forename.surname @kuleuven.be
+{{< icon name="envelope" pack="fas" >}} ``forename.surname@kuleuven.be``
 
-*In May 2026, I will move to Maynooth University to work as an Assistant Professor. Maynooth email addresses follow the format forename.surname @mu.ie.*
+*In May 2026, I will join Maynooth University as an Assistant Professor. Maynooth email addresses use the* ``forename.surname@mu.ie`` *format.*
