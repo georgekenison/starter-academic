@@ -98,9 +98,10 @@ I am a senior postdoctoral fellow at KU Leuven in the Department of Computer Sci
 <!-- working in Formal Verification and Program Analysis. I was previously a research associate in Infinite-State Systems and Dynamical Systems at the University of Oxford. -->
 
 My academic interests lie in computational aspects of Algebraic Dynamical Systems and their applications in Verification and Program Analysis.
-My research advances scientific frontiers in the Theory of Computation through the design and analysis of algorithms.
+My research primarily investigates the boundary between decidable and undecidable problems. <!-- and addresses these problems through the design and analysis of algorithms. -->
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV.{{< /staticref >}} -->
 
 {{< icon name="envelope" pack="fas" >}} forename.surname @kuleuven.be
 
+*In May 2026, I will move to Maynooth University to work as an Assistant Professor. Maynooth email addresses follow the format forename.surname @mu.ie.*

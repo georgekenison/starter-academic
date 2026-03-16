@@ -81,7 +81,7 @@ problem (SSR) is the computational problem of checking if $$\sqrt{a_1} + \sqrt{a
 It is an essential primitive in Computational Geometry where efficient algorithms for several geometric problems are known relative to SSR. 
 However the best-known complexity upper bound for SSR is in the Counting Hierarchy (CH), and no non-trivial lower bounds are known. Over the last two decades, SSR-hardness has emerged as a useful tool to capture the "numerical hardness" of problems, especially in Game Theory and Verification. In this talk, I will introduce a variant of SSR and show efficient "non-uniform" algorithms for this problem.
 
-{{% staticref "/uploads/Balaji_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+{{% staticref "/uploads/worrell/Balaji_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 
 {{< /spoiler >}}
@@ -94,7 +94,7 @@ However the best-known complexity upper bound for SSR is in the Counting Hierarc
 
 Abstract: We investigate some recent results on injectivity for Quantum Finite Automata. We call a QFA injective if the acceptance probability of every input word is unique. We show the undecidability of this problem by using tools and results from linear algebra, quaternions, number theory, and in particular rational polynomial pairing functions. We note a huge disparity in the number of required states to show undecidability depending on whether the initial state vector is rational or real algebraic. We will draw parallels with interesting questions for other matrix theoretic problems, and introduce some new research directions and open problems.
 
-{{% staticref "/uploads/Bell_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+{{% staticref "/uploads/worrell/Bell_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
@@ -107,7 +107,7 @@ Abstract: In this lecture we revisit recursive sequences  from the view point  o
 Linear recurrences allow indeed  the definition of  numerations for both integers and real numbers.
 We focus on the so-called finiteness property  which  means that  the set  of elements having a finite  expansion   forms a ring, and on  its numerous applications in arithmetics, aperiodic order,  fractal geometry etc.
 
-{{% staticref "/uploads/Berthe_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+{{% staticref "/uploads/worrell/Berthe_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
@@ -149,7 +149,7 @@ In the first part of the talk, we will see that their conjecture was indeed far 
 
 This is joint work with Y. Bilu, J. Nieuwveld, J. Ouaknine and J. Worrell.
 
-{{% staticref "/uploads/Luca_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+{{% staticref "/uploads/worrell/Luca_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 
@@ -163,7 +163,7 @@ Abstract: The Skolem Problem asks to determine whether a given integer linear re
 
 This is joint work with Florian Luca, James Maynard, Armand Noubissie, and James Worrell.
 
-{{% staticref "/uploads/Ouaknine_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
+{{% staticref "/uploads/worrell/Ouaknine_slides.pdf" %}} Slides: &#128462; {{% /staticref %}}
 
 {{< /spoiler >}}
 

@@ -1,11 +1,11 @@
 ---
 title: "Determination Problems for Orbit Closures and Matrix Groups"
-date: 2024-07-06
-publishDate: 2024-07-06
+date: 2026-01-01
+publishDate: 2026-01-08
 authors: ["R. Ait El Manssour", "G. Kenison", "M. Shirmohammadi", "A.Varonka", "J. Worrell"]
-publication_types: ["3"]
+publication_types: ["2"]
 featured: false
-publication: ""
+publication: "*Proceedings of the ACM on Programming Languages, POPL'26*"
 
 abstract: "Computational problems concerning the orbit of a point
 under the action of a matrix group occur in numerous subfields
@@ -30,9 +30,8 @@ The main tools in our approach are rooted in structural properties of commutativ
 orbit closure of a point under an algebraic matrix group (without the requirement of commutativity).
 "
 
-doi: "10.48550/arXiv.2407.04626"
+doi: "10.1145/3776698"
 tags : ["determination problems", "algebraic geometry", "orbit closures", "loop synthesis", "computational complexity"]
-links:
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2407.04626
