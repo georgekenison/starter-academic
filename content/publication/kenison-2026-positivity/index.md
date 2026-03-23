@@ -1,5 +1,5 @@
 ---
-title: "On Inequality Decision Problems for Low-Order Holonomic Sequences"
+title: "On the Positivity Problem for second-order holonomic sequences"
 date: 2026-03-01
 publishDate: 
 authors: ["G. Kenison", "O. Klurman", "E. Lefaucheux", "F. Luca", "P. Moree", "E. C. Sertöz", "J. Ouaknine", "M. A. Whiteland", "J. Worrell"]
